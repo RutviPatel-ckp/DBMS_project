@@ -1,0 +1,1686 @@
+education_id,user_id,institution,degree,field_of_study,graduation_year
+1,1,University of California,Associate's Degree,Life Sciences,2018
+2,2,University of California,High School Diploma,Life Sciences,2018
+3,3,State University,Associate's Degree,Other,2019
+4,4,University of California,Master's Degree,Life Sciences,2018
+5,5,Johns Hopkins University,High School Diploma,Medical,2017
+6,6,University of California,Associate's Degree,Life Sciences,2018
+7,7,Johns Hopkins University,Bachelor's Degree,Medical,2017
+8,8,University of California,High School Diploma,Life Sciences,2018
+9,9,University of California,Bachelor's Degree,Life Sciences,2018
+10,10,Johns Hopkins University,Bachelor's Degree,Medical,2017
+11,11,Johns Hopkins University,Bachelor's Degree,Medical,2017
+12,12,University of California,Associate's Degree,Life Sciences,2018
+13,13,University of California,High School Diploma,Life Sciences,2018
+14,14,Johns Hopkins University,Associate's Degree,Medical,2017
+15,15,University of California,Bachelor's Degree,Life Sciences,2018
+16,16,University of California,Master's Degree,Life Sciences,2018
+17,17,University of California,Associate's Degree,Life Sciences,2018
+18,18,Johns Hopkins University,Associate's Degree,Medical,2017
+19,19,University of California,Master's Degree,Life Sciences,2018
+20,20,University of California,Bachelor's Degree,Life Sciences,2018
+21,21,State University,Associate's Degree,Other,2019
+22,22,University of California,Master's Degree,Life Sciences,2018
+23,23,University of California,Master's Degree,Life Sciences,2018
+24,24,University of California,Associate's Degree,Life Sciences,2018
+25,25,Johns Hopkins University,High School Diploma,Medical,2017
+26,26,State University,Bachelor's Degree,Other,2019
+27,27,University of California,High School Diploma,Life Sciences,2018
+28,28,New York University,Master's Degree,Marketing,2019
+29,29,Johns Hopkins University,Master's Degree,Medical,2017
+30,30,New York University,Master's Degree,Marketing,2019
+31,31,Johns Hopkins University,Bachelor's Degree,Medical,2017
+32,32,State University,Master's Degree,Other,2019
+33,33,Johns Hopkins University,Associate's Degree,Medical,2017
+34,34,MIT,Bachelor's Degree,Technical Degree,2016
+35,35,Johns Hopkins University,Bachelor's Degree,Medical,2017
+36,36,Johns Hopkins University,Associate's Degree,Medical,2017
+37,37,New York University,Associate's Degree,Marketing,2019
+38,38,New York University,Bachelor's Degree,Marketing,2019
+39,39,University of California,Master's Degree,Life Sciences,2018
+40,40,University of California,Bachelor's Degree,Life Sciences,2018
+41,41,State University,Associate's Degree,Other,2019
+42,42,University of California,Master's Degree,Life Sciences,2018
+43,43,University of California,Bachelor's Degree,Life Sciences,2018
+44,44,University of California,Bachelor's Degree,Life Sciences,2018
+45,45,Johns Hopkins University,Associate's Degree,Medical,2017
+46,46,MIT,Bachelor's Degree,Technical Degree,2016
+47,47,New York University,Master's Degree,Marketing,2019
+48,48,University of California,Associate's Degree,Life Sciences,2018
+49,49,New York University,Master's Degree,Marketing,2019
+50,50,University of California,High School Diploma,Life Sciences,2018
+51,51,University of California,Associate's Degree,Life Sciences,2018
+52,52,MIT,Master's Degree,Technical Degree,2016
+53,53,New York University,Doctoral Degree,Marketing,2019
+54,54,Johns Hopkins University,Associate's Degree,Medical,2017
+55,55,New York University,Bachelor's Degree,Marketing,2019
+56,56,University of California,Associate's Degree,Life Sciences,2018
+57,57,University of California,Doctoral Degree,Life Sciences,2018
+58,58,Johns Hopkins University,Master's Degree,Medical,2017
+59,59,University of California,Master's Degree,Life Sciences,2018
+60,60,University of California,Master's Degree,Life Sciences,2018
+61,61,Johns Hopkins University,Bachelor's Degree,Medical,2017
+62,62,University of California,Doctoral Degree,Life Sciences,2018
+63,63,Johns Hopkins University,Associate's Degree,Medical,2017
+64,64,University of California,Bachelor's Degree,Life Sciences,2018
+65,65,MIT,Bachelor's Degree,Technical Degree,2016
+66,66,Johns Hopkins University,Bachelor's Degree,Medical,2017
+67,67,University of California,Bachelor's Degree,Life Sciences,2018
+68,68,University of California,Bachelor's Degree,Life Sciences,2018
+69,69,Johns Hopkins University,Bachelor's Degree,Medical,2017
+70,70,Johns Hopkins University,Bachelor's Degree,Medical,2017
+71,71,University of California,High School Diploma,Life Sciences,2018
+72,72,University of California,Bachelor's Degree,Life Sciences,2018
+73,73,Johns Hopkins University,Master's Degree,Medical,2017
+74,74,University of California,Bachelor's Degree,Life Sciences,2018
+75,75,University of California,Bachelor's Degree,Life Sciences,2018
+76,76,University of California,Master's Degree,Life Sciences,2018
+77,77,New York University,Master's Degree,Marketing,2019
+78,78,State University,Master's Degree,Other,2019
+79,79,Johns Hopkins University,Master's Degree,Medical,2017
+80,80,Johns Hopkins University,Associate's Degree,Medical,2017
+81,81,University of California,High School Diploma,Life Sciences,2018
+82,82,Johns Hopkins University,Bachelor's Degree,Medical,2017
+83,83,University of California,Associate's Degree,Life Sciences,2018
+84,84,Johns Hopkins University,Bachelor's Degree,Medical,2017
+85,85,Johns Hopkins University,Associate's Degree,Medical,2017
+86,86,University of California,Bachelor's Degree,Life Sciences,2018
+87,87,MIT,High School Diploma,Technical Degree,2016
+88,88,University of California,Master's Degree,Life Sciences,2018
+89,89,University of California,Bachelor's Degree,Life Sciences,2018
+90,90,Johns Hopkins University,Associate's Degree,Medical,2017
+91,91,University of California,Master's Degree,Life Sciences,2018
+92,92,New York University,Master's Degree,Marketing,2019
+93,93,Johns Hopkins University,Associate's Degree,Medical,2017
+94,94,Johns Hopkins University,Bachelor's Degree,Medical,2017
+95,95,Johns Hopkins University,Master's Degree,Medical,2017
+96,96,MIT,Master's Degree,Technical Degree,2016
+97,97,State University,Associate's Degree,Other,2019
+98,98,Johns Hopkins University,Bachelor's Degree,Medical,2017
+99,99,Johns Hopkins University,Master's Degree,Medical,2017
+100,100,Johns Hopkins University,Bachelor's Degree,Medical,2017
+101,101,Cornell University,Master's Degree,Human Resources,2018
+102,102,University of California,High School Diploma,Life Sciences,2018
+103,103,University of California,Bachelor's Degree,Life Sciences,2018
+104,104,State University,Master's Degree,Other,2019
+105,105,University of California,Associate's Degree,Life Sciences,2018
+106,106,Cornell University,Master's Degree,Human Resources,2018
+107,107,University of California,Bachelor's Degree,Life Sciences,2018
+108,108,New York University,Bachelor's Degree,Marketing,2019
+109,109,Johns Hopkins University,High School Diploma,Medical,2017
+110,110,Johns Hopkins University,Bachelor's Degree,Medical,2017
+111,111,Johns Hopkins University,Master's Degree,Medical,2017
+112,112,University of California,Bachelor's Degree,Life Sciences,2018
+113,113,Cornell University,Bachelor's Degree,Human Resources,2018
+114,114,University of California,High School Diploma,Life Sciences,2018
+115,115,University of California,Master's Degree,Life Sciences,2018
+116,116,University of California,Bachelor's Degree,Life Sciences,2018
+117,117,Johns Hopkins University,Bachelor's Degree,Medical,2017
+118,118,MIT,Associate's Degree,Technical Degree,2016
+119,119,University of California,Associate's Degree,Life Sciences,2018
+120,120,University of California,Associate's Degree,Life Sciences,2018
+121,121,University of California,Bachelor's Degree,Life Sciences,2018
+122,122,New York University,Associate's Degree,Marketing,2019
+123,123,University of California,Master's Degree,Life Sciences,2018
+124,124,University of California,Bachelor's Degree,Life Sciences,2018
+125,125,University of California,Master's Degree,Life Sciences,2018
+126,126,State University,Bachelor's Degree,Other,2019
+127,127,Johns Hopkins University,Master's Degree,Medical,2017
+128,128,New York University,High School Diploma,Marketing,2019
+129,129,MIT,High School Diploma,Technical Degree,2016
+130,130,Johns Hopkins University,Master's Degree,Medical,2017
+131,131,Johns Hopkins University,Bachelor's Degree,Medical,2017
+132,132,New York University,Bachelor's Degree,Marketing,2019
+133,133,University of California,Bachelor's Degree,Life Sciences,2018
+134,134,University of California,High School Diploma,Life Sciences,2018
+135,135,University of California,High School Diploma,Life Sciences,2018
+136,136,Johns Hopkins University,Associate's Degree,Medical,2017
+137,137,University of California,Master's Degree,Life Sciences,2018
+138,138,University of California,Master's Degree,Life Sciences,2018
+139,139,University of California,Bachelor's Degree,Life Sciences,2018
+140,140,Cornell University,Bachelor's Degree,Human Resources,2018
+141,141,Johns Hopkins University,Bachelor's Degree,Medical,2017
+142,142,Johns Hopkins University,Bachelor's Degree,Medical,2017
+143,143,MIT,Doctoral Degree,Technical Degree,2016
+144,144,University of California,Bachelor's Degree,Life Sciences,2018
+145,145,Johns Hopkins University,Associate's Degree,Medical,2017
+146,146,MIT,Bachelor's Degree,Technical Degree,2016
+147,147,Johns Hopkins University,High School Diploma,Medical,2017
+148,148,University of California,Bachelor's Degree,Life Sciences,2018
+149,149,University of California,Master's Degree,Life Sciences,2018
+150,150,Johns Hopkins University,High School Diploma,Medical,2017
+151,151,Johns Hopkins University,Bachelor's Degree,Medical,2017
+152,152,New York University,Doctoral Degree,Marketing,2019
+153,153,New York University,Associate's Degree,Marketing,2019
+154,154,University of California,Bachelor's Degree,Life Sciences,2018
+155,155,New York University,Bachelor's Degree,Marketing,2019
+156,156,MIT,High School Diploma,Technical Degree,2016
+157,157,Johns Hopkins University,Master's Degree,Medical,2017
+158,158,Johns Hopkins University,Bachelor's Degree,Medical,2017
+159,159,New York University,Master's Degree,Marketing,2019
+160,160,New York University,Master's Degree,Marketing,2019
+161,161,Johns Hopkins University,High School Diploma,Medical,2017
+162,162,Johns Hopkins University,Bachelor's Degree,Medical,2017
+163,163,Johns Hopkins University,Bachelor's Degree,Medical,2017
+164,164,University of California,Associate's Degree,Life Sciences,2018
+165,165,Johns Hopkins University,Bachelor's Degree,Medical,2017
+166,166,University of California,Bachelor's Degree,Life Sciences,2018
+167,167,University of California,Bachelor's Degree,Life Sciences,2018
+168,168,University of California,Bachelor's Degree,Life Sciences,2018
+169,169,University of California,Master's Degree,Life Sciences,2018
+170,170,University of California,Doctoral Degree,Life Sciences,2018
+171,171,MIT,Bachelor's Degree,Technical Degree,2016
+172,172,MIT,High School Diploma,Technical Degree,2016
+173,173,Johns Hopkins University,Associate's Degree,Medical,2017
+174,174,Johns Hopkins University,Bachelor's Degree,Medical,2017
+175,175,University of California,Associate's Degree,Life Sciences,2018
+176,176,University of California,Bachelor's Degree,Life Sciences,2018
+177,177,University of California,Bachelor's Degree,Life Sciences,2018
+178,178,University of California,Bachelor's Degree,Life Sciences,2018
+179,179,New York University,Associate's Degree,Marketing,2019
+180,180,University of California,Associate's Degree,Life Sciences,2018
+181,181,Johns Hopkins University,High School Diploma,Medical,2017
+182,182,Johns Hopkins University,Associate's Degree,Medical,2017
+183,183,New York University,Associate's Degree,Marketing,2019
+184,184,Johns Hopkins University,Bachelor's Degree,Medical,2017
+185,185,Johns Hopkins University,Associate's Degree,Medical,2017
+186,186,Johns Hopkins University,Bachelor's Degree,Medical,2017
+187,187,Johns Hopkins University,High School Diploma,Medical,2017
+188,188,Johns Hopkins University,Master's Degree,Medical,2017
+189,189,University of California,High School Diploma,Life Sciences,2018
+190,190,Johns Hopkins University,Bachelor's Degree,Medical,2017
+191,191,University of California,Master's Degree,Life Sciences,2018
+192,192,Johns Hopkins University,Bachelor's Degree,Medical,2017
+193,193,University of California,Associate's Degree,Life Sciences,2018
+194,194,Johns Hopkins University,Bachelor's Degree,Medical,2017
+195,195,Johns Hopkins University,Associate's Degree,Medical,2017
+196,196,University of California,Bachelor's Degree,Life Sciences,2018
+197,197,Johns Hopkins University,Bachelor's Degree,Medical,2017
+198,198,Johns Hopkins University,Associate's Degree,Medical,2017
+199,199,University of California,Master's Degree,Life Sciences,2018
+200,200,MIT,Bachelor's Degree,Technical Degree,2016
+201,201,MIT,High School Diploma,Technical Degree,2016
+202,202,University of California,Master's Degree,Life Sciences,2018
+203,203,Johns Hopkins University,Master's Degree,Medical,2017
+204,204,Johns Hopkins University,Associate's Degree,Medical,2017
+205,205,Johns Hopkins University,High School Diploma,Medical,2017
+206,206,New York University,Bachelor's Degree,Marketing,2019
+207,207,University of California,Bachelor's Degree,Life Sciences,2018
+208,208,Johns Hopkins University,High School Diploma,Medical,2017
+209,209,University of California,Doctoral Degree,Life Sciences,2018
+210,210,Johns Hopkins University,Master's Degree,Medical,2017
+211,211,Johns Hopkins University,Master's Degree,Medical,2017
+212,212,University of California,High School Diploma,Life Sciences,2018
+213,213,University of California,Bachelor's Degree,Life Sciences,2018
+214,214,University of California,Master's Degree,Life Sciences,2018
+215,215,MIT,Bachelor's Degree,Technical Degree,2016
+216,216,University of California,Bachelor's Degree,Life Sciences,2018
+217,217,New York University,Master's Degree,Marketing,2019
+218,218,MIT,Bachelor's Degree,Technical Degree,2016
+219,219,Johns Hopkins University,Bachelor's Degree,Medical,2017
+220,220,New York University,Bachelor's Degree,Marketing,2019
+221,221,University of California,Associate's Degree,Life Sciences,2018
+222,222,Johns Hopkins University,Master's Degree,Medical,2017
+223,223,State University,Bachelor's Degree,Other,2019
+224,224,University of California,Bachelor's Degree,Life Sciences,2018
+225,225,Johns Hopkins University,Master's Degree,Medical,2017
+226,226,University of California,Bachelor's Degree,Life Sciences,2018
+227,227,New York University,Master's Degree,Marketing,2019
+228,228,Johns Hopkins University,High School Diploma,Medical,2017
+229,229,New York University,Bachelor's Degree,Marketing,2019
+230,230,Johns Hopkins University,High School Diploma,Medical,2017
+231,231,University of California,Bachelor's Degree,Life Sciences,2018
+232,232,MIT,Associate's Degree,Technical Degree,2016
+233,233,Johns Hopkins University,Associate's Degree,Medical,2017
+234,234,Johns Hopkins University,Master's Degree,Medical,2017
+235,235,Johns Hopkins University,Bachelor's Degree,Medical,2017
+236,236,New York University,Bachelor's Degree,Marketing,2019
+237,237,University of California,Associate's Degree,Life Sciences,2018
+238,238,University of California,Master's Degree,Life Sciences,2018
+239,239,University of California,Associate's Degree,Life Sciences,2018
+240,240,University of California,Bachelor's Degree,Life Sciences,2018
+241,241,Johns Hopkins University,Master's Degree,Medical,2017
+242,242,New York University,Master's Degree,Marketing,2019
+243,243,University of California,Associate's Degree,Life Sciences,2018
+244,244,MIT,Associate's Degree,Technical Degree,2016
+245,245,State University,Bachelor's Degree,Other,2019
+246,246,Johns Hopkins University,Master's Degree,Medical,2017
+247,247,University of California,Master's Degree,Life Sciences,2018
+248,248,University of California,Master's Degree,Life Sciences,2018
+249,249,Johns Hopkins University,Associate's Degree,Medical,2017
+250,250,University of California,Master's Degree,Life Sciences,2018
+251,251,Johns Hopkins University,Bachelor's Degree,Medical,2017
+252,252,MIT,Master's Degree,Technical Degree,2016
+253,253,University of California,Bachelor's Degree,Life Sciences,2018
+254,254,University of California,Associate's Degree,Life Sciences,2018
+255,255,New York University,Associate's Degree,Marketing,2019
+256,256,University of California,Bachelor's Degree,Life Sciences,2018
+257,257,Johns Hopkins University,Bachelor's Degree,Medical,2017
+258,258,Johns Hopkins University,Associate's Degree,Medical,2017
+259,259,University of California,Bachelor's Degree,Life Sciences,2018
+260,260,Johns Hopkins University,Associate's Degree,Medical,2017
+261,261,University of California,Bachelor's Degree,Life Sciences,2018
+262,262,University of California,Associate's Degree,Life Sciences,2018
+263,263,MIT,High School Diploma,Technical Degree,2016
+264,264,MIT,Bachelor's Degree,Technical Degree,2016
+265,265,University of California,Master's Degree,Life Sciences,2018
+266,266,Johns Hopkins University,Bachelor's Degree,Medical,2017
+267,267,Johns Hopkins University,Bachelor's Degree,Medical,2017
+268,268,University of California,Associate's Degree,Life Sciences,2018
+269,269,Johns Hopkins University,Associate's Degree,Medical,2017
+270,270,University of California,Bachelor's Degree,Life Sciences,2018
+271,271,Johns Hopkins University,Bachelor's Degree,Medical,2017
+272,272,University of California,Master's Degree,Life Sciences,2018
+273,273,Johns Hopkins University,Bachelor's Degree,Medical,2017
+274,274,Johns Hopkins University,Master's Degree,Medical,2017
+275,275,Johns Hopkins University,Associate's Degree,Medical,2017
+276,276,Johns Hopkins University,Master's Degree,Medical,2017
+277,277,University of California,Bachelor's Degree,Life Sciences,2018
+278,278,Johns Hopkins University,Associate's Degree,Medical,2017
+279,279,University of California,Bachelor's Degree,Life Sciences,2018
+280,280,University of California,High School Diploma,Life Sciences,2018
+281,281,Johns Hopkins University,Master's Degree,Medical,2017
+282,282,University of California,High School Diploma,Life Sciences,2018
+283,283,University of California,Associate's Degree,Life Sciences,2018
+284,284,MIT,Associate's Degree,Technical Degree,2016
+285,285,Johns Hopkins University,Associate's Degree,Medical,2017
+286,286,University of California,Bachelor's Degree,Life Sciences,2018
+287,287,University of California,Bachelor's Degree,Life Sciences,2018
+288,288,University of California,Master's Degree,Life Sciences,2018
+289,289,Johns Hopkins University,Master's Degree,Medical,2017
+290,290,University of California,Associate's Degree,Life Sciences,2018
+291,291,University of California,Master's Degree,Life Sciences,2018
+292,292,MIT,Bachelor's Degree,Technical Degree,2016
+293,293,New York University,Bachelor's Degree,Marketing,2019
+294,294,New York University,Master's Degree,Marketing,2019
+295,295,Johns Hopkins University,Bachelor's Degree,Medical,2017
+296,296,New York University,Bachelor's Degree,Marketing,2019
+297,297,University of California,Bachelor's Degree,Life Sciences,2018
+298,298,New York University,Bachelor's Degree,Marketing,2019
+299,299,University of California,Master's Degree,Life Sciences,2018
+300,300,Johns Hopkins University,Bachelor's Degree,Medical,2017
+301,301,University of California,Master's Degree,Life Sciences,2018
+302,302,Johns Hopkins University,Bachelor's Degree,Medical,2017
+303,303,Johns Hopkins University,Associate's Degree,Medical,2017
+304,304,MIT,Bachelor's Degree,Technical Degree,2016
+305,305,Johns Hopkins University,Bachelor's Degree,Medical,2017
+306,306,University of California,Master's Degree,Life Sciences,2018
+307,307,University of California,Bachelor's Degree,Life Sciences,2018
+308,308,University of California,Associate's Degree,Life Sciences,2018
+309,309,University of California,Master's Degree,Life Sciences,2018
+310,310,MIT,Master's Degree,Technical Degree,2016
+311,311,Cornell University,Bachelor's Degree,Human Resources,2018
+312,312,University of California,Bachelor's Degree,Life Sciences,2018
+313,313,University of California,Master's Degree,Life Sciences,2018
+314,314,University of California,Master's Degree,Life Sciences,2018
+315,315,Johns Hopkins University,High School Diploma,Medical,2017
+316,316,University of California,Master's Degree,Life Sciences,2018
+317,317,MIT,Associate's Degree,Technical Degree,2016
+318,318,Johns Hopkins University,Master's Degree,Medical,2017
+319,319,University of California,Bachelor's Degree,Life Sciences,2018
+320,320,MIT,Associate's Degree,Technical Degree,2016
+321,321,University of California,Bachelor's Degree,Life Sciences,2018
+322,322,New York University,Bachelor's Degree,Marketing,2019
+323,323,Johns Hopkins University,Master's Degree,Medical,2017
+324,324,Johns Hopkins University,Master's Degree,Medical,2017
+325,325,Johns Hopkins University,Associate's Degree,Medical,2017
+326,326,University of California,Associate's Degree,Life Sciences,2018
+327,327,Johns Hopkins University,Associate's Degree,Medical,2017
+328,328,Johns Hopkins University,Associate's Degree,Medical,2017
+329,329,New York University,Bachelor's Degree,Marketing,2019
+330,330,University of California,Doctoral Degree,Life Sciences,2018
+331,331,University of California,Master's Degree,Life Sciences,2018
+332,332,New York University,High School Diploma,Marketing,2019
+333,333,University of California,Master's Degree,Life Sciences,2018
+334,334,University of California,Bachelor's Degree,Life Sciences,2018
+335,335,State University,Master's Degree,Other,2019
+336,336,Johns Hopkins University,Associate's Degree,Medical,2017
+337,337,State University,Master's Degree,Other,2019
+338,338,State University,Doctoral Degree,Other,2019
+339,339,New York University,Bachelor's Degree,Marketing,2019
+340,340,New York University,Master's Degree,Marketing,2019
+341,341,Johns Hopkins University,Associate's Degree,Medical,2017
+342,342,University of California,Associate's Degree,Life Sciences,2018
+343,343,Johns Hopkins University,Master's Degree,Medical,2017
+344,344,New York University,High School Diploma,Marketing,2019
+345,345,MIT,Master's Degree,Technical Degree,2016
+346,346,University of California,High School Diploma,Life Sciences,2018
+347,347,Johns Hopkins University,Bachelor's Degree,Medical,2017
+348,348,Johns Hopkins University,High School Diploma,Medical,2017
+349,349,University of California,Doctoral Degree,Life Sciences,2018
+350,350,University of California,Bachelor's Degree,Life Sciences,2018
+351,351,MIT,High School Diploma,Technical Degree,2016
+352,352,Johns Hopkins University,Bachelor's Degree,Medical,2017
+353,353,Johns Hopkins University,High School Diploma,Medical,2017
+354,354,Johns Hopkins University,Bachelor's Degree,Medical,2017
+355,355,MIT,Associate's Degree,Technical Degree,2016
+356,356,University of California,Bachelor's Degree,Life Sciences,2018
+357,357,State University,Master's Degree,Other,2019
+358,358,MIT,High School Diploma,Technical Degree,2016
+359,359,Johns Hopkins University,Doctoral Degree,Medical,2017
+360,360,Johns Hopkins University,Master's Degree,Medical,2017
+361,361,Johns Hopkins University,Master's Degree,Medical,2017
+362,362,University of California,Master's Degree,Life Sciences,2018
+363,363,Johns Hopkins University,Associate's Degree,Medical,2017
+364,364,New York University,Bachelor's Degree,Marketing,2019
+365,365,Johns Hopkins University,Bachelor's Degree,Medical,2017
+366,366,Johns Hopkins University,Master's Degree,Medical,2017
+367,367,New York University,Bachelor's Degree,Marketing,2019
+368,368,MIT,Bachelor's Degree,Technical Degree,2016
+369,369,New York University,Associate's Degree,Marketing,2019
+370,370,University of California,Master's Degree,Life Sciences,2018
+371,371,University of California,Bachelor's Degree,Life Sciences,2018
+372,372,University of California,Bachelor's Degree,Life Sciences,2018
+373,373,University of California,Master's Degree,Life Sciences,2018
+374,374,Johns Hopkins University,Associate's Degree,Medical,2017
+375,375,University of California,Master's Degree,Life Sciences,2018
+376,376,State University,Bachelor's Degree,Other,2019
+377,377,University of California,Associate's Degree,Life Sciences,2018
+378,378,University of California,Bachelor's Degree,Life Sciences,2018
+379,379,New York University,Bachelor's Degree,Marketing,2019
+380,380,University of California,Bachelor's Degree,Life Sciences,2018
+381,381,New York University,Master's Degree,Marketing,2019
+382,382,MIT,High School Diploma,Technical Degree,2016
+383,383,MIT,High School Diploma,Technical Degree,2016
+384,384,Johns Hopkins University,Bachelor's Degree,Medical,2017
+385,385,Johns Hopkins University,Associate's Degree,Medical,2017
+386,386,MIT,Bachelor's Degree,Technical Degree,2016
+387,387,University of California,Bachelor's Degree,Life Sciences,2018
+388,388,New York University,Associate's Degree,Marketing,2019
+389,389,University of California,Master's Degree,Life Sciences,2018
+390,390,University of California,Master's Degree,Life Sciences,2018
+391,391,University of California,Bachelor's Degree,Life Sciences,2018
+392,392,Johns Hopkins University,Bachelor's Degree,Medical,2017
+393,393,Johns Hopkins University,Associate's Degree,Medical,2017
+394,394,New York University,Master's Degree,Marketing,2019
+395,395,Johns Hopkins University,Associate's Degree,Medical,2017
+396,396,Johns Hopkins University,Bachelor's Degree,Medical,2017
+397,397,State University,Master's Degree,Other,2019
+398,398,University of California,Associate's Degree,Life Sciences,2018
+399,399,Johns Hopkins University,Doctoral Degree,Medical,2017
+400,400,University of California,Associate's Degree,Life Sciences,2018
+401,401,University of California,High School Diploma,Life Sciences,2018
+402,402,University of California,Bachelor's Degree,Life Sciences,2018
+403,403,MIT,Bachelor's Degree,Technical Degree,2016
+404,404,New York University,Bachelor's Degree,Marketing,2019
+405,405,Johns Hopkins University,Associate's Degree,Medical,2017
+406,406,Johns Hopkins University,Bachelor's Degree,Medical,2017
+407,407,Johns Hopkins University,Bachelor's Degree,Medical,2017
+408,408,University of California,Associate's Degree,Life Sciences,2018
+409,409,University of California,Associate's Degree,Life Sciences,2018
+410,410,University of California,Associate's Degree,Life Sciences,2018
+411,411,University of California,Bachelor's Degree,Life Sciences,2018
+412,412,University of California,Bachelor's Degree,Life Sciences,2018
+413,413,Johns Hopkins University,Bachelor's Degree,Medical,2017
+414,414,MIT,Master's Degree,Technical Degree,2016
+415,415,MIT,High School Diploma,Technical Degree,2016
+416,416,New York University,Associate's Degree,Marketing,2019
+417,417,University of California,Associate's Degree,Life Sciences,2018
+418,418,University of California,Master's Degree,Life Sciences,2018
+419,419,University of California,Bachelor's Degree,Life Sciences,2018
+420,420,University of California,Bachelor's Degree,Life Sciences,2018
+421,421,Johns Hopkins University,Master's Degree,Medical,2017
+422,422,MIT,Doctoral Degree,Technical Degree,2016
+423,423,MIT,Associate's Degree,Technical Degree,2016
+424,424,State University,Master's Degree,Other,2019
+425,425,New York University,Bachelor's Degree,Marketing,2019
+426,426,University of California,Master's Degree,Life Sciences,2018
+427,427,Johns Hopkins University,Bachelor's Degree,Medical,2017
+428,428,New York University,Bachelor's Degree,Marketing,2019
+429,429,Johns Hopkins University,Associate's Degree,Medical,2017
+430,430,University of California,Bachelor's Degree,Life Sciences,2018
+431,431,University of California,Bachelor's Degree,Life Sciences,2018
+432,432,University of California,Master's Degree,Life Sciences,2018
+433,433,University of California,Master's Degree,Life Sciences,2018
+434,434,New York University,Bachelor's Degree,Marketing,2019
+435,435,University of California,High School Diploma,Life Sciences,2018
+436,436,Johns Hopkins University,High School Diploma,Medical,2017
+437,437,Johns Hopkins University,High School Diploma,Medical,2017
+438,438,New York University,High School Diploma,Marketing,2019
+439,439,University of California,Bachelor's Degree,Life Sciences,2018
+440,440,University of California,Bachelor's Degree,Life Sciences,2018
+441,441,Cornell University,Bachelor's Degree,Human Resources,2018
+442,442,State University,Associate's Degree,Other,2019
+443,443,Johns Hopkins University,Master's Degree,Medical,2017
+444,444,MIT,High School Diploma,Technical Degree,2016
+445,445,New York University,Doctoral Degree,Marketing,2019
+446,446,University of California,Doctoral Degree,Life Sciences,2018
+447,447,University of California,Associate's Degree,Life Sciences,2018
+448,448,New York University,Bachelor's Degree,Marketing,2019
+449,449,University of California,Bachelor's Degree,Life Sciences,2018
+450,450,University of California,High School Diploma,Life Sciences,2018
+451,451,University of California,High School Diploma,Life Sciences,2018
+452,452,Johns Hopkins University,Bachelor's Degree,Medical,2017
+453,453,State University,Bachelor's Degree,Other,2019
+454,454,University of California,Master's Degree,Life Sciences,2018
+455,455,MIT,Bachelor's Degree,Technical Degree,2016
+456,456,Johns Hopkins University,Doctoral Degree,Medical,2017
+457,457,University of California,Bachelor's Degree,Life Sciences,2018
+458,458,New York University,Bachelor's Degree,Marketing,2019
+459,459,State University,Bachelor's Degree,Other,2019
+460,460,State University,Master's Degree,Other,2019
+461,461,Johns Hopkins University,Associate's Degree,Medical,2017
+462,462,Johns Hopkins University,Bachelor's Degree,Medical,2017
+463,463,University of California,Master's Degree,Life Sciences,2018
+464,464,MIT,Bachelor's Degree,Technical Degree,2016
+465,465,MIT,Bachelor's Degree,Technical Degree,2016
+466,466,Johns Hopkins University,High School Diploma,Medical,2017
+467,467,University of California,Doctoral Degree,Life Sciences,2018
+468,468,Johns Hopkins University,Master's Degree,Medical,2017
+469,469,MIT,Associate's Degree,Technical Degree,2016
+470,470,State University,Master's Degree,Other,2019
+471,471,Johns Hopkins University,Bachelor's Degree,Medical,2017
+472,472,Johns Hopkins University,Bachelor's Degree,Medical,2017
+473,473,University of California,Master's Degree,Life Sciences,2018
+474,474,University of California,Master's Degree,Life Sciences,2018
+475,475,Johns Hopkins University,Bachelor's Degree,Medical,2017
+476,476,New York University,Associate's Degree,Marketing,2019
+477,477,State University,Associate's Degree,Other,2019
+478,478,Johns Hopkins University,Bachelor's Degree,Medical,2017
+479,479,Johns Hopkins University,High School Diploma,Medical,2017
+480,480,University of California,Bachelor's Degree,Life Sciences,2018
+481,481,University of California,Master's Degree,Life Sciences,2018
+482,482,University of California,Associate's Degree,Life Sciences,2018
+483,483,Johns Hopkins University,Master's Degree,Medical,2017
+484,484,State University,Associate's Degree,Other,2019
+485,485,Johns Hopkins University,Master's Degree,Medical,2017
+486,486,Johns Hopkins University,Master's Degree,Medical,2017
+487,487,New York University,Bachelor's Degree,Marketing,2019
+488,488,University of California,Bachelor's Degree,Life Sciences,2018
+489,489,University of California,Master's Degree,Life Sciences,2018
+490,490,State University,Master's Degree,Other,2019
+491,491,University of California,High School Diploma,Life Sciences,2018
+492,492,Johns Hopkins University,Doctoral Degree,Medical,2017
+493,493,University of California,Master's Degree,Life Sciences,2018
+494,494,University of California,Master's Degree,Life Sciences,2018
+495,495,MIT,Bachelor's Degree,Technical Degree,2016
+496,496,New York University,High School Diploma,Marketing,2019
+497,497,MIT,High School Diploma,Technical Degree,2016
+498,498,State University,Master's Degree,Other,2019
+499,499,Johns Hopkins University,High School Diploma,Medical,2017
+500,500,New York University,Master's Degree,Marketing,2019
+501,501,University of California,Master's Degree,Life Sciences,2018
+502,502,Johns Hopkins University,Bachelor's Degree,Medical,2017
+503,503,Johns Hopkins University,High School Diploma,Medical,2017
+504,504,University of California,Doctoral Degree,Life Sciences,2018
+505,505,University of California,Master's Degree,Life Sciences,2018
+506,506,University of California,Bachelor's Degree,Life Sciences,2018
+507,507,State University,Bachelor's Degree,Other,2019
+508,508,Johns Hopkins University,Associate's Degree,Medical,2017
+509,509,University of California,Master's Degree,Life Sciences,2018
+510,510,University of California,Bachelor's Degree,Life Sciences,2018
+511,511,Johns Hopkins University,Master's Degree,Medical,2017
+512,512,Johns Hopkins University,Associate's Degree,Medical,2017
+513,513,Johns Hopkins University,Master's Degree,Medical,2017
+514,514,Johns Hopkins University,High School Diploma,Medical,2017
+515,515,University of California,Bachelor's Degree,Life Sciences,2018
+516,516,University of California,Bachelor's Degree,Life Sciences,2018
+517,517,Johns Hopkins University,Bachelor's Degree,Medical,2017
+518,518,University of California,Bachelor's Degree,Life Sciences,2018
+519,519,New York University,Master's Degree,Marketing,2019
+520,520,University of California,Master's Degree,Life Sciences,2018
+521,521,New York University,High School Diploma,Marketing,2019
+522,522,Johns Hopkins University,High School Diploma,Medical,2017
+523,523,University of California,Associate's Degree,Life Sciences,2018
+524,524,Johns Hopkins University,High School Diploma,Medical,2017
+525,525,Johns Hopkins University,Bachelor's Degree,Medical,2017
+526,526,University of California,Associate's Degree,Life Sciences,2018
+527,527,MIT,Master's Degree,Technical Degree,2016
+528,528,New York University,Bachelor's Degree,Marketing,2019
+529,529,MIT,Associate's Degree,Technical Degree,2016
+530,530,University of California,Master's Degree,Life Sciences,2018
+531,531,University of California,Associate's Degree,Life Sciences,2018
+532,532,University of California,Associate's Degree,Life Sciences,2018
+533,533,New York University,Master's Degree,Marketing,2019
+534,534,University of California,Master's Degree,Life Sciences,2018
+535,535,University of California,Bachelor's Degree,Life Sciences,2018
+536,536,Cornell University,Master's Degree,Human Resources,2018
+537,537,New York University,Master's Degree,Marketing,2019
+538,538,University of California,Associate's Degree,Life Sciences,2018
+539,539,Cornell University,Bachelor's Degree,Human Resources,2018
+540,540,New York University,Master's Degree,Marketing,2019
+541,541,University of California,Associate's Degree,Life Sciences,2018
+542,542,University of California,Bachelor's Degree,Life Sciences,2018
+543,543,University of California,Bachelor's Degree,Life Sciences,2018
+544,544,Johns Hopkins University,Bachelor's Degree,Medical,2017
+545,545,Johns Hopkins University,Bachelor's Degree,Medical,2017
+546,546,New York University,Doctoral Degree,Marketing,2019
+547,547,University of California,Bachelor's Degree,Life Sciences,2018
+548,548,Johns Hopkins University,Bachelor's Degree,Medical,2017
+549,549,University of California,Bachelor's Degree,Life Sciences,2018
+550,550,Johns Hopkins University,Associate's Degree,Medical,2017
+551,551,Johns Hopkins University,High School Diploma,Medical,2017
+552,552,Cornell University,Bachelor's Degree,Human Resources,2018
+553,553,Johns Hopkins University,Bachelor's Degree,Medical,2017
+554,554,Johns Hopkins University,High School Diploma,Medical,2017
+555,555,Johns Hopkins University,Bachelor's Degree,Medical,2017
+556,556,New York University,Bachelor's Degree,Marketing,2019
+557,557,University of California,Bachelor's Degree,Life Sciences,2018
+558,558,University of California,Master's Degree,Life Sciences,2018
+559,559,University of California,Master's Degree,Life Sciences,2018
+560,560,Johns Hopkins University,Doctoral Degree,Medical,2017
+561,561,University of California,Doctoral Degree,Life Sciences,2018
+562,562,New York University,Master's Degree,Marketing,2019
+563,563,State University,Master's Degree,Other,2019
+564,564,Johns Hopkins University,High School Diploma,Medical,2017
+565,565,MIT,Associate's Degree,Technical Degree,2016
+566,566,Johns Hopkins University,High School Diploma,Medical,2017
+567,567,University of California,Associate's Degree,Life Sciences,2018
+568,568,State University,Bachelor's Degree,Other,2019
+569,569,Johns Hopkins University,Bachelor's Degree,Medical,2017
+570,570,University of California,Master's Degree,Life Sciences,2018
+571,571,Johns Hopkins University,Master's Degree,Medical,2017
+572,572,University of California,Associate's Degree,Life Sciences,2018
+573,573,Johns Hopkins University,Bachelor's Degree,Medical,2017
+574,574,MIT,Bachelor's Degree,Technical Degree,2016
+575,575,University of California,Master's Degree,Life Sciences,2018
+576,576,Johns Hopkins University,Master's Degree,Medical,2017
+577,577,New York University,High School Diploma,Marketing,2019
+578,578,University of California,High School Diploma,Life Sciences,2018
+579,579,University of California,Master's Degree,Life Sciences,2018
+580,580,Johns Hopkins University,Master's Degree,Medical,2017
+581,581,University of California,Master's Degree,Life Sciences,2018
+582,582,University of California,Bachelor's Degree,Life Sciences,2018
+583,583,Johns Hopkins University,Associate's Degree,Medical,2017
+584,584,University of California,Associate's Degree,Life Sciences,2018
+585,585,University of California,Bachelor's Degree,Life Sciences,2018
+586,586,University of California,Bachelor's Degree,Life Sciences,2018
+587,587,University of California,Bachelor's Degree,Life Sciences,2018
+588,588,University of California,Master's Degree,Life Sciences,2018
+589,589,Johns Hopkins University,Bachelor's Degree,Medical,2017
+590,590,University of California,Associate's Degree,Life Sciences,2018
+591,591,Johns Hopkins University,Bachelor's Degree,Medical,2017
+592,592,New York University,Bachelor's Degree,Marketing,2019
+593,593,State University,Associate's Degree,Other,2019
+594,594,State University,Bachelor's Degree,Other,2019
+595,595,University of California,Associate's Degree,Life Sciences,2018
+596,596,University of California,Master's Degree,Life Sciences,2018
+597,597,University of California,Master's Degree,Life Sciences,2018
+598,598,University of California,Associate's Degree,Life Sciences,2018
+599,599,Johns Hopkins University,Master's Degree,Medical,2017
+600,600,Cornell University,Bachelor's Degree,Human Resources,2018
+601,601,University of California,Bachelor's Degree,Life Sciences,2018
+602,602,Johns Hopkins University,Master's Degree,Medical,2017
+603,603,Johns Hopkins University,Bachelor's Degree,Medical,2017
+604,604,University of California,Bachelor's Degree,Life Sciences,2018
+605,605,University of California,Bachelor's Degree,Life Sciences,2018
+606,606,University of California,Bachelor's Degree,Life Sciences,2018
+607,607,University of California,Master's Degree,Life Sciences,2018
+608,608,New York University,Bachelor's Degree,Marketing,2019
+609,609,Johns Hopkins University,High School Diploma,Medical,2017
+610,610,University of California,Associate's Degree,Life Sciences,2018
+611,611,MIT,High School Diploma,Technical Degree,2016
+612,612,State University,Bachelor's Degree,Other,2019
+613,613,New York University,Master's Degree,Marketing,2019
+614,614,Cornell University,Associate's Degree,Human Resources,2018
+615,615,Johns Hopkins University,Associate's Degree,Medical,2017
+616,616,Johns Hopkins University,Bachelor's Degree,Medical,2017
+617,617,New York University,Master's Degree,Marketing,2019
+618,618,Johns Hopkins University,Bachelor's Degree,Medical,2017
+619,619,Johns Hopkins University,High School Diploma,Medical,2017
+620,620,Johns Hopkins University,Bachelor's Degree,Medical,2017
+621,621,Johns Hopkins University,High School Diploma,Medical,2017
+622,622,University of California,Associate's Degree,Life Sciences,2018
+623,623,University of California,Master's Degree,Life Sciences,2018
+624,624,University of California,Master's Degree,Life Sciences,2018
+625,625,New York University,Associate's Degree,Marketing,2019
+626,626,New York University,Bachelor's Degree,Marketing,2019
+627,627,Johns Hopkins University,Associate's Degree,Medical,2017
+628,628,Johns Hopkins University,Master's Degree,Medical,2017
+629,629,New York University,Master's Degree,Marketing,2019
+630,630,Johns Hopkins University,Associate's Degree,Medical,2017
+631,631,University of California,Associate's Degree,Life Sciences,2018
+632,632,University of California,Master's Degree,Life Sciences,2018
+633,633,Johns Hopkins University,High School Diploma,Medical,2017
+634,634,University of California,Bachelor's Degree,Life Sciences,2018
+635,635,State University,High School Diploma,Other,2019
+636,636,University of California,Bachelor's Degree,Life Sciences,2018
+637,637,University of California,Master's Degree,Life Sciences,2018
+638,638,University of California,Bachelor's Degree,Life Sciences,2018
+639,639,New York University,High School Diploma,Marketing,2019
+640,640,MIT,Bachelor's Degree,Technical Degree,2016
+641,641,University of California,High School Diploma,Life Sciences,2018
+642,642,University of California,Associate's Degree,Life Sciences,2018
+643,643,New York University,Bachelor's Degree,Marketing,2019
+644,644,University of California,Bachelor's Degree,Life Sciences,2018
+645,645,University of California,Master's Degree,Life Sciences,2018
+646,646,Johns Hopkins University,Bachelor's Degree,Medical,2017
+647,647,New York University,Bachelor's Degree,Marketing,2019
+648,648,MIT,Bachelor's Degree,Technical Degree,2016
+649,649,Johns Hopkins University,Associate's Degree,Medical,2017
+650,650,University of California,Master's Degree,Life Sciences,2018
+651,651,University of California,Bachelor's Degree,Life Sciences,2018
+652,652,New York University,Associate's Degree,Marketing,2019
+653,653,Johns Hopkins University,Associate's Degree,Medical,2017
+654,654,University of California,Master's Degree,Life Sciences,2018
+655,655,University of California,Bachelor's Degree,Life Sciences,2018
+656,656,Cornell University,Associate's Degree,Human Resources,2018
+657,657,University of California,Master's Degree,Life Sciences,2018
+658,658,Johns Hopkins University,High School Diploma,Medical,2017
+659,659,University of California,Associate's Degree,Life Sciences,2018
+660,660,Johns Hopkins University,Master's Degree,Medical,2017
+661,661,University of California,High School Diploma,Life Sciences,2018
+662,662,University of California,Bachelor's Degree,Life Sciences,2018
+663,663,Johns Hopkins University,Bachelor's Degree,Medical,2017
+664,664,State University,High School Diploma,Other,2019
+665,665,University of California,High School Diploma,Life Sciences,2018
+666,666,University of California,Master's Degree,Life Sciences,2018
+667,667,University of California,High School Diploma,Life Sciences,2018
+668,668,University of California,Master's Degree,Life Sciences,2018
+669,669,Johns Hopkins University,Bachelor's Degree,Medical,2017
+670,670,Johns Hopkins University,Bachelor's Degree,Medical,2017
+671,671,University of California,Bachelor's Degree,Life Sciences,2018
+672,672,University of California,Bachelor's Degree,Life Sciences,2018
+673,673,Johns Hopkins University,Associate's Degree,Medical,2017
+674,674,State University,Master's Degree,Other,2019
+675,675,MIT,Bachelor's Degree,Technical Degree,2016
+676,676,University of California,Master's Degree,Life Sciences,2018
+677,677,University of California,High School Diploma,Life Sciences,2018
+678,678,State University,Associate's Degree,Other,2019
+679,679,Johns Hopkins University,Master's Degree,Medical,2017
+680,680,New York University,Associate's Degree,Marketing,2019
+681,681,State University,Master's Degree,Other,2019
+682,682,MIT,Bachelor's Degree,Technical Degree,2016
+683,683,University of California,Bachelor's Degree,Life Sciences,2018
+684,684,New York University,Associate's Degree,Marketing,2019
+685,685,New York University,Master's Degree,Marketing,2019
+686,686,Johns Hopkins University,Bachelor's Degree,Medical,2017
+687,687,Johns Hopkins University,Bachelor's Degree,Medical,2017
+688,688,Johns Hopkins University,Master's Degree,Medical,2017
+689,689,State University,Bachelor's Degree,Other,2019
+690,690,MIT,Bachelor's Degree,Technical Degree,2016
+691,691,Johns Hopkins University,Bachelor's Degree,Medical,2017
+692,692,Johns Hopkins University,Master's Degree,Medical,2017
+693,693,Johns Hopkins University,Master's Degree,Medical,2017
+694,694,University of California,High School Diploma,Life Sciences,2018
+695,695,University of California,Bachelor's Degree,Life Sciences,2018
+696,696,University of California,Master's Degree,Life Sciences,2018
+697,697,University of California,Associate's Degree,Life Sciences,2018
+698,698,MIT,Bachelor's Degree,Technical Degree,2016
+699,699,Johns Hopkins University,Bachelor's Degree,Medical,2017
+700,700,University of California,Associate's Degree,Life Sciences,2018
+701,701,MIT,Bachelor's Degree,Technical Degree,2016
+702,702,Johns Hopkins University,Associate's Degree,Medical,2017
+703,703,State University,Associate's Degree,Other,2019
+704,704,MIT,Bachelor's Degree,Technical Degree,2016
+705,705,University of California,Master's Degree,Life Sciences,2018
+706,706,University of California,Doctoral Degree,Life Sciences,2018
+707,707,University of California,Bachelor's Degree,Life Sciences,2018
+708,708,Johns Hopkins University,Master's Degree,Medical,2017
+709,709,MIT,Master's Degree,Technical Degree,2016
+710,710,Johns Hopkins University,Associate's Degree,Medical,2017
+711,711,University of California,Bachelor's Degree,Life Sciences,2018
+712,712,University of California,Bachelor's Degree,Life Sciences,2018
+713,713,University of California,High School Diploma,Life Sciences,2018
+714,714,Johns Hopkins University,Master's Degree,Medical,2017
+715,715,Johns Hopkins University,Associate's Degree,Medical,2017
+716,716,State University,Master's Degree,Other,2019
+717,717,Johns Hopkins University,Bachelor's Degree,Medical,2017
+718,718,MIT,Master's Degree,Technical Degree,2016
+719,719,University of California,Associate's Degree,Life Sciences,2018
+720,720,University of California,Associate's Degree,Life Sciences,2018
+721,721,University of California,Bachelor's Degree,Life Sciences,2018
+722,722,University of California,Bachelor's Degree,Life Sciences,2018
+723,723,Johns Hopkins University,High School Diploma,Medical,2017
+724,724,Johns Hopkins University,Associate's Degree,Medical,2017
+725,725,Johns Hopkins University,High School Diploma,Medical,2017
+726,726,State University,Master's Degree,Other,2019
+727,727,University of California,High School Diploma,Life Sciences,2018
+728,728,University of California,Associate's Degree,Life Sciences,2018
+729,729,MIT,Bachelor's Degree,Technical Degree,2016
+730,730,Johns Hopkins University,Master's Degree,Medical,2017
+731,731,University of California,Associate's Degree,Life Sciences,2018
+732,732,Johns Hopkins University,Bachelor's Degree,Medical,2017
+733,733,Johns Hopkins University,Bachelor's Degree,Medical,2017
+734,734,Johns Hopkins University,Associate's Degree,Medical,2017
+735,735,University of California,High School Diploma,Life Sciences,2018
+736,736,University of California,Bachelor's Degree,Life Sciences,2018
+737,737,University of California,Master's Degree,Life Sciences,2018
+738,738,Johns Hopkins University,Associate's Degree,Medical,2017
+739,739,University of California,High School Diploma,Life Sciences,2018
+740,740,University of California,Master's Degree,Life Sciences,2018
+741,741,State University,Bachelor's Degree,Other,2019
+742,742,New York University,Associate's Degree,Marketing,2019
+743,743,University of California,Bachelor's Degree,Life Sciences,2018
+744,744,University of California,Bachelor's Degree,Life Sciences,2018
+745,745,Johns Hopkins University,Associate's Degree,Medical,2017
+746,746,Johns Hopkins University,Master's Degree,Medical,2017
+747,747,University of California,High School Diploma,Life Sciences,2018
+748,748,University of California,Master's Degree,Life Sciences,2018
+749,749,Johns Hopkins University,Associate's Degree,Medical,2017
+750,750,New York University,High School Diploma,Marketing,2019
+751,751,Johns Hopkins University,Bachelor's Degree,Medical,2017
+752,752,University of California,Bachelor's Degree,Life Sciences,2018
+753,753,University of California,Master's Degree,Life Sciences,2018
+754,754,Johns Hopkins University,Bachelor's Degree,Medical,2017
+755,755,University of California,High School Diploma,Life Sciences,2018
+756,756,University of California,Associate's Degree,Life Sciences,2018
+757,757,Johns Hopkins University,Master's Degree,Medical,2017
+758,758,New York University,Master's Degree,Marketing,2019
+759,759,MIT,Associate's Degree,Technical Degree,2016
+760,760,Johns Hopkins University,Master's Degree,Medical,2017
+761,761,New York University,Bachelor's Degree,Marketing,2019
+762,762,State University,Bachelor's Degree,Other,2019
+763,763,University of California,Bachelor's Degree,Life Sciences,2018
+764,764,University of California,Master's Degree,Life Sciences,2018
+765,765,Johns Hopkins University,High School Diploma,Medical,2017
+766,766,State University,Master's Degree,Other,2019
+767,767,Johns Hopkins University,Master's Degree,Medical,2017
+768,768,State University,Bachelor's Degree,Other,2019
+769,769,New York University,Bachelor's Degree,Marketing,2019
+770,770,Johns Hopkins University,High School Diploma,Medical,2017
+771,771,Johns Hopkins University,Master's Degree,Medical,2017
+772,772,University of California,Master's Degree,Life Sciences,2018
+773,773,Johns Hopkins University,Bachelor's Degree,Medical,2017
+774,774,Johns Hopkins University,Doctoral Degree,Medical,2017
+775,775,Johns Hopkins University,High School Diploma,Medical,2017
+776,776,Johns Hopkins University,Bachelor's Degree,Medical,2017
+777,777,New York University,Bachelor's Degree,Marketing,2019
+778,778,University of California,Bachelor's Degree,Life Sciences,2018
+779,779,University of California,Master's Degree,Life Sciences,2018
+780,780,University of California,Master's Degree,Life Sciences,2018
+781,781,MIT,Associate's Degree,Technical Degree,2016
+782,782,Johns Hopkins University,Associate's Degree,Medical,2017
+783,783,State University,Bachelor's Degree,Other,2019
+784,784,MIT,Associate's Degree,Technical Degree,2016
+785,785,University of California,High School Diploma,Life Sciences,2018
+786,786,MIT,Master's Degree,Technical Degree,2016
+787,787,University of California,Doctoral Degree,Life Sciences,2018
+788,788,University of California,High School Diploma,Life Sciences,2018
+789,789,State University,Bachelor's Degree,Other,2019
+790,790,Johns Hopkins University,Associate's Degree,Medical,2017
+791,791,University of California,Bachelor's Degree,Life Sciences,2018
+792,792,MIT,Bachelor's Degree,Technical Degree,2016
+793,793,Johns Hopkins University,Master's Degree,Medical,2017
+794,794,University of California,Associate's Degree,Life Sciences,2018
+795,795,University of California,High School Diploma,Life Sciences,2018
+796,796,University of California,Master's Degree,Life Sciences,2018
+797,797,MIT,High School Diploma,Technical Degree,2016
+798,798,Johns Hopkins University,Bachelor's Degree,Medical,2017
+799,799,Johns Hopkins University,Bachelor's Degree,Medical,2017
+800,800,Johns Hopkins University,Associate's Degree,Medical,2017
+801,801,Johns Hopkins University,Bachelor's Degree,Medical,2017
+802,802,State University,Master's Degree,Other,2019
+803,803,University of California,Bachelor's Degree,Life Sciences,2018
+804,804,University of California,Master's Degree,Life Sciences,2018
+805,805,Johns Hopkins University,Master's Degree,Medical,2017
+806,806,University of California,Master's Degree,Life Sciences,2018
+807,807,University of California,Master's Degree,Life Sciences,2018
+808,808,New York University,Master's Degree,Marketing,2019
+809,809,University of California,Master's Degree,Life Sciences,2018
+810,810,Johns Hopkins University,Bachelor's Degree,Medical,2017
+811,811,New York University,High School Diploma,Marketing,2019
+812,812,New York University,Associate's Degree,Marketing,2019
+813,813,University of California,Bachelor's Degree,Life Sciences,2018
+814,814,University of California,Bachelor's Degree,Life Sciences,2018
+815,815,Johns Hopkins University,Bachelor's Degree,Medical,2017
+816,816,MIT,High School Diploma,Technical Degree,2016
+817,817,University of California,Bachelor's Degree,Life Sciences,2018
+818,818,University of California,Master's Degree,Life Sciences,2018
+819,819,University of California,Bachelor's Degree,Life Sciences,2018
+820,820,University of California,High School Diploma,Life Sciences,2018
+821,821,New York University,Associate's Degree,Marketing,2019
+822,822,MIT,Master's Degree,Technical Degree,2016
+823,823,University of California,Associate's Degree,Life Sciences,2018
+824,824,University of California,Bachelor's Degree,Life Sciences,2018
+825,825,Johns Hopkins University,Bachelor's Degree,Medical,2017
+826,826,Johns Hopkins University,High School Diploma,Medical,2017
+827,827,Cornell University,Bachelor's Degree,Human Resources,2018
+828,828,University of California,Bachelor's Degree,Life Sciences,2018
+829,829,Johns Hopkins University,High School Diploma,Medical,2017
+830,830,New York University,Master's Degree,Marketing,2019
+831,831,University of California,Master's Degree,Life Sciences,2018
+832,832,Johns Hopkins University,Bachelor's Degree,Medical,2017
+833,833,Johns Hopkins University,Associate's Degree,Medical,2017
+834,834,University of California,Bachelor's Degree,Life Sciences,2018
+835,835,University of California,High School Diploma,Life Sciences,2018
+836,836,MIT,Master's Degree,Technical Degree,2016
+837,837,University of California,High School Diploma,Life Sciences,2018
+838,838,Johns Hopkins University,Master's Degree,Medical,2017
+839,839,University of California,Bachelor's Degree,Life Sciences,2018
+840,840,New York University,Master's Degree,Marketing,2019
+841,841,Johns Hopkins University,Master's Degree,Medical,2017
+842,842,Johns Hopkins University,Bachelor's Degree,Medical,2017
+843,843,University of California,High School Diploma,Life Sciences,2018
+844,844,Johns Hopkins University,Master's Degree,Medical,2017
+845,845,New York University,Bachelor's Degree,Marketing,2019
+846,846,Johns Hopkins University,Associate's Degree,Medical,2017
+847,847,University of California,Bachelor's Degree,Life Sciences,2018
+848,848,Johns Hopkins University,Bachelor's Degree,Medical,2017
+849,849,State University,Master's Degree,Other,2019
+850,850,New York University,Bachelor's Degree,Marketing,2019
+851,851,University of California,High School Diploma,Life Sciences,2018
+852,852,MIT,Master's Degree,Technical Degree,2016
+853,853,Johns Hopkins University,High School Diploma,Medical,2017
+854,854,University of California,Associate's Degree,Life Sciences,2018
+855,855,Johns Hopkins University,Bachelor's Degree,Medical,2017
+856,856,University of California,Bachelor's Degree,Life Sciences,2018
+857,857,University of California,Bachelor's Degree,Life Sciences,2018
+858,858,University of California,Master's Degree,Life Sciences,2018
+859,859,Johns Hopkins University,Associate's Degree,Medical,2017
+860,860,University of California,High School Diploma,Life Sciences,2018
+861,861,University of California,Master's Degree,Life Sciences,2018
+862,862,New York University,Bachelor's Degree,Marketing,2019
+863,863,University of California,Bachelor's Degree,Life Sciences,2018
+864,864,Cornell University,Bachelor's Degree,Human Resources,2018
+865,865,University of California,Associate's Degree,Life Sciences,2018
+866,866,University of California,Master's Degree,Life Sciences,2018
+867,867,Johns Hopkins University,Master's Degree,Medical,2017
+868,868,Johns Hopkins University,Bachelor's Degree,Medical,2017
+869,869,Johns Hopkins University,Master's Degree,Medical,2017
+870,870,University of California,Associate's Degree,Life Sciences,2018
+871,871,University of California,Master's Degree,Life Sciences,2018
+872,872,University of California,Associate's Degree,Life Sciences,2018
+873,873,Johns Hopkins University,Bachelor's Degree,Medical,2017
+874,874,University of California,Master's Degree,Life Sciences,2018
+875,875,University of California,Master's Degree,Life Sciences,2018
+876,876,State University,Master's Degree,Other,2019
+877,877,New York University,Bachelor's Degree,Marketing,2019
+878,878,MIT,Master's Degree,Technical Degree,2016
+879,879,Johns Hopkins University,Doctoral Degree,Medical,2017
+880,880,New York University,Master's Degree,Marketing,2019
+881,881,State University,Bachelor's Degree,Other,2019
+882,882,University of California,Associate's Degree,Life Sciences,2018
+883,883,MIT,Bachelor's Degree,Technical Degree,2016
+884,884,Johns Hopkins University,Bachelor's Degree,Medical,2017
+885,885,MIT,Bachelor's Degree,Technical Degree,2016
+886,886,University of California,Master's Degree,Life Sciences,2018
+887,887,Johns Hopkins University,Bachelor's Degree,Medical,2017
+888,888,Johns Hopkins University,Doctoral Degree,Medical,2017
+889,889,New York University,Associate's Degree,Marketing,2019
+890,890,University of California,Bachelor's Degree,Life Sciences,2018
+891,891,University of California,Master's Degree,Life Sciences,2018
+892,892,University of California,High School Diploma,Life Sciences,2018
+893,893,Johns Hopkins University,Bachelor's Degree,Medical,2017
+894,894,University of California,Bachelor's Degree,Life Sciences,2018
+895,895,University of California,Bachelor's Degree,Life Sciences,2018
+896,896,Johns Hopkins University,Associate's Degree,Medical,2017
+897,897,Johns Hopkins University,Bachelor's Degree,Medical,2017
+898,898,University of California,Bachelor's Degree,Life Sciences,2018
+899,899,University of California,Bachelor's Degree,Life Sciences,2018
+900,900,Johns Hopkins University,Associate's Degree,Medical,2017
+901,901,MIT,Bachelor's Degree,Technical Degree,2016
+902,902,MIT,Associate's Degree,Technical Degree,2016
+903,903,University of California,Associate's Degree,Life Sciences,2018
+904,904,University of California,Bachelor's Degree,Life Sciences,2018
+905,905,University of California,Bachelor's Degree,Life Sciences,2018
+906,906,University of California,Bachelor's Degree,Life Sciences,2018
+907,907,MIT,Bachelor's Degree,Technical Degree,2016
+908,908,New York University,Bachelor's Degree,Marketing,2019
+909,909,New York University,Doctoral Degree,Marketing,2019
+910,910,University of California,Bachelor's Degree,Life Sciences,2018
+911,911,University of California,Associate's Degree,Life Sciences,2018
+912,912,University of California,High School Diploma,Life Sciences,2018
+913,913,University of California,Associate's Degree,Life Sciences,2018
+914,914,New York University,Bachelor's Degree,Marketing,2019
+915,915,Johns Hopkins University,High School Diploma,Medical,2017
+916,916,University of California,Associate's Degree,Life Sciences,2018
+917,917,New York University,Associate's Degree,Marketing,2019
+918,918,New York University,Bachelor's Degree,Marketing,2019
+919,919,University of California,Bachelor's Degree,Life Sciences,2018
+920,920,Johns Hopkins University,Master's Degree,Medical,2017
+921,921,Johns Hopkins University,Bachelor's Degree,Medical,2017
+922,922,Johns Hopkins University,Master's Degree,Medical,2017
+923,923,University of California,Associate's Degree,Life Sciences,2018
+924,924,University of California,Bachelor's Degree,Life Sciences,2018
+925,925,University of California,High School Diploma,Life Sciences,2018
+926,926,Johns Hopkins University,Master's Degree,Medical,2017
+927,927,New York University,Master's Degree,Marketing,2019
+928,928,University of California,Master's Degree,Life Sciences,2018
+929,929,Johns Hopkins University,Bachelor's Degree,Medical,2017
+930,930,University of California,Bachelor's Degree,Life Sciences,2018
+931,931,Johns Hopkins University,Associate's Degree,Medical,2017
+932,932,Johns Hopkins University,Associate's Degree,Medical,2017
+933,933,MIT,Bachelor's Degree,Technical Degree,2016
+934,934,MIT,Bachelor's Degree,Technical Degree,2016
+935,935,Johns Hopkins University,Bachelor's Degree,Medical,2017
+936,936,Johns Hopkins University,Bachelor's Degree,Medical,2017
+937,937,Johns Hopkins University,Bachelor's Degree,Medical,2017
+938,938,Johns Hopkins University,Master's Degree,Medical,2017
+939,939,University of California,Master's Degree,Life Sciences,2018
+940,940,University of California,Associate's Degree,Life Sciences,2018
+941,941,Johns Hopkins University,Bachelor's Degree,Medical,2017
+942,942,MIT,Bachelor's Degree,Technical Degree,2016
+943,943,MIT,Master's Degree,Technical Degree,2016
+944,944,University of California,Associate's Degree,Life Sciences,2018
+945,945,University of California,Bachelor's Degree,Life Sciences,2018
+946,946,University of California,Bachelor's Degree,Life Sciences,2018
+947,947,New York University,Master's Degree,Marketing,2019
+948,948,University of California,Bachelor's Degree,Life Sciences,2018
+949,949,Johns Hopkins University,Master's Degree,Medical,2017
+950,950,University of California,Associate's Degree,Life Sciences,2018
+951,951,University of California,Master's Degree,Life Sciences,2018
+952,952,Johns Hopkins University,Associate's Degree,Medical,2017
+953,953,University of California,Bachelor's Degree,Life Sciences,2018
+954,954,University of California,Bachelor's Degree,Life Sciences,2018
+955,955,University of California,High School Diploma,Life Sciences,2018
+956,956,Johns Hopkins University,Associate's Degree,Medical,2017
+957,957,University of California,Master's Degree,Life Sciences,2018
+958,958,University of California,Associate's Degree,Life Sciences,2018
+959,959,University of California,Bachelor's Degree,Life Sciences,2018
+960,960,University of California,Bachelor's Degree,Life Sciences,2018
+961,961,New York University,Bachelor's Degree,Marketing,2019
+962,962,University of California,Master's Degree,Life Sciences,2018
+963,963,University of California,Bachelor's Degree,Life Sciences,2018
+964,964,University of California,Associate's Degree,Life Sciences,2018
+965,965,Johns Hopkins University,Associate's Degree,Medical,2017
+966,966,Johns Hopkins University,High School Diploma,Medical,2017
+967,967,Johns Hopkins University,Master's Degree,Medical,2017
+968,968,University of California,Master's Degree,Life Sciences,2018
+969,969,New York University,Bachelor's Degree,Marketing,2019
+970,970,University of California,Bachelor's Degree,Life Sciences,2018
+971,971,Johns Hopkins University,Bachelor's Degree,Medical,2017
+972,972,MIT,Associate's Degree,Technical Degree,2016
+973,973,University of California,Bachelor's Degree,Life Sciences,2018
+974,974,Johns Hopkins University,Bachelor's Degree,Medical,2017
+975,975,University of California,High School Diploma,Life Sciences,2018
+976,976,New York University,Master's Degree,Marketing,2019
+977,977,University of California,Bachelor's Degree,Life Sciences,2018
+978,978,MIT,High School Diploma,Technical Degree,2016
+979,979,Johns Hopkins University,High School Diploma,Medical,2017
+980,980,Johns Hopkins University,Bachelor's Degree,Medical,2017
+981,981,University of California,Bachelor's Degree,Life Sciences,2018
+982,982,New York University,Master's Degree,Marketing,2019
+983,983,University of California,Bachelor's Degree,Life Sciences,2018
+984,984,MIT,Master's Degree,Technical Degree,2016
+985,985,University of California,Bachelor's Degree,Life Sciences,2018
+986,986,Johns Hopkins University,Master's Degree,Medical,2017
+987,987,University of California,Master's Degree,Life Sciences,2018
+988,988,New York University,Bachelor's Degree,Marketing,2019
+989,989,University of California,Bachelor's Degree,Life Sciences,2018
+990,990,University of California,High School Diploma,Life Sciences,2018
+991,991,University of California,High School Diploma,Life Sciences,2018
+992,992,New York University,High School Diploma,Marketing,2019
+993,993,University of California,Associate's Degree,Life Sciences,2018
+994,994,University of California,High School Diploma,Life Sciences,2018
+995,995,Johns Hopkins University,Associate's Degree,Medical,2017
+996,996,Johns Hopkins University,Bachelor's Degree,Medical,2017
+997,997,New York University,Bachelor's Degree,Marketing,2019
+998,998,University of California,Master's Degree,Life Sciences,2018
+999,999,Johns Hopkins University,High School Diploma,Medical,2017
+1000,1000,Cornell University,Bachelor's Degree,Human Resources,2018
+1001,1001,State University,Master's Degree,Other,2019
+1002,1002,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1003,1003,University of California,Associate's Degree,Life Sciences,2018
+1004,1004,MIT,Bachelor's Degree,Technical Degree,2016
+1005,1005,State University,Bachelor's Degree,Other,2019
+1006,1006,State University,Bachelor's Degree,Other,2019
+1007,1007,University of California,Associate's Degree,Life Sciences,2018
+1008,1008,State University,High School Diploma,Other,2019
+1009,1009,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1010,1010,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1011,1011,Johns Hopkins University,Master's Degree,Medical,2017
+1012,1012,New York University,Master's Degree,Marketing,2019
+1013,1013,University of California,Master's Degree,Life Sciences,2018
+1014,1014,New York University,Master's Degree,Marketing,2019
+1015,1015,University of California,Doctoral Degree,Life Sciences,2018
+1016,1016,State University,Master's Degree,Other,2019
+1017,1017,University of California,Bachelor's Degree,Life Sciences,2018
+1018,1018,University of California,High School Diploma,Life Sciences,2018
+1019,1019,University of California,Master's Degree,Life Sciences,2018
+1020,1020,New York University,Master's Degree,Marketing,2019
+1021,1021,MIT,Bachelor's Degree,Technical Degree,2016
+1022,1022,University of California,Associate's Degree,Life Sciences,2018
+1023,1023,MIT,Associate's Degree,Technical Degree,2016
+1024,1024,University of California,Associate's Degree,Life Sciences,2018
+1025,1025,Johns Hopkins University,Master's Degree,Medical,2017
+1026,1026,Johns Hopkins University,High School Diploma,Medical,2017
+1027,1027,New York University,Doctoral Degree,Marketing,2019
+1028,1028,University of California,Bachelor's Degree,Life Sciences,2018
+1029,1029,Johns Hopkins University,Doctoral Degree,Medical,2017
+1030,1030,State University,Master's Degree,Other,2019
+1031,1031,University of California,Associate's Degree,Life Sciences,2018
+1032,1032,New York University,Bachelor's Degree,Marketing,2019
+1033,1033,University of California,Bachelor's Degree,Life Sciences,2018
+1034,1034,University of California,Doctoral Degree,Life Sciences,2018
+1035,1035,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1036,1036,Johns Hopkins University,Associate's Degree,Medical,2017
+1037,1037,University of California,Bachelor's Degree,Life Sciences,2018
+1038,1038,MIT,Bachelor's Degree,Technical Degree,2016
+1039,1039,New York University,Bachelor's Degree,Marketing,2019
+1040,1040,MIT,Master's Degree,Technical Degree,2016
+1041,1041,Johns Hopkins University,High School Diploma,Medical,2017
+1042,1042,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1043,1043,University of California,Bachelor's Degree,Life Sciences,2018
+1044,1044,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1045,1045,MIT,Master's Degree,Technical Degree,2016
+1046,1046,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1047,1047,University of California,Bachelor's Degree,Life Sciences,2018
+1048,1048,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1049,1049,State University,Bachelor's Degree,Other,2019
+1050,1050,University of California,High School Diploma,Life Sciences,2018
+1051,1051,Johns Hopkins University,Associate's Degree,Medical,2017
+1052,1052,New York University,Doctoral Degree,Marketing,2019
+1053,1053,MIT,Bachelor's Degree,Technical Degree,2016
+1054,1054,University of California,Associate's Degree,Life Sciences,2018
+1055,1055,University of California,Master's Degree,Life Sciences,2018
+1056,1056,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1057,1057,MIT,Bachelor's Degree,Technical Degree,2016
+1058,1058,MIT,Bachelor's Degree,Technical Degree,2016
+1059,1059,Johns Hopkins University,Master's Degree,Medical,2017
+1060,1060,University of California,High School Diploma,Life Sciences,2018
+1061,1061,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1062,1062,University of California,Associate's Degree,Life Sciences,2018
+1063,1063,Johns Hopkins University,High School Diploma,Medical,2017
+1064,1064,University of California,Bachelor's Degree,Life Sciences,2018
+1065,1065,University of California,Bachelor's Degree,Life Sciences,2018
+1066,1066,University of California,Master's Degree,Life Sciences,2018
+1067,1067,Johns Hopkins University,Master's Degree,Medical,2017
+1068,1068,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1069,1069,Johns Hopkins University,Associate's Degree,Medical,2017
+1070,1070,University of California,Bachelor's Degree,Life Sciences,2018
+1071,1071,University of California,Bachelor's Degree,Life Sciences,2018
+1072,1072,Johns Hopkins University,Associate's Degree,Medical,2017
+1073,1073,University of California,High School Diploma,Life Sciences,2018
+1074,1074,University of California,High School Diploma,Life Sciences,2018
+1075,1075,University of California,Doctoral Degree,Life Sciences,2018
+1076,1076,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1077,1077,Johns Hopkins University,Master's Degree,Medical,2017
+1078,1078,MIT,Master's Degree,Technical Degree,2016
+1079,1079,University of California,Bachelor's Degree,Life Sciences,2018
+1080,1080,University of California,Bachelor's Degree,Life Sciences,2018
+1081,1081,University of California,Bachelor's Degree,Life Sciences,2018
+1082,1082,University of California,Bachelor's Degree,Life Sciences,2018
+1083,1083,University of California,High School Diploma,Life Sciences,2018
+1084,1084,University of California,Master's Degree,Life Sciences,2018
+1085,1085,MIT,Bachelor's Degree,Technical Degree,2016
+1086,1086,University of California,Bachelor's Degree,Life Sciences,2018
+1087,1087,Johns Hopkins University,Doctoral Degree,Medical,2017
+1088,1088,MIT,Associate's Degree,Technical Degree,2016
+1089,1089,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1090,1090,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1091,1091,State University,High School Diploma,Other,2019
+1092,1092,University of California,Bachelor's Degree,Life Sciences,2018
+1093,1093,MIT,Bachelor's Degree,Technical Degree,2016
+1094,1094,University of California,Bachelor's Degree,Life Sciences,2018
+1095,1095,Johns Hopkins University,Associate's Degree,Medical,2017
+1096,1096,University of California,Master's Degree,Life Sciences,2018
+1097,1097,Johns Hopkins University,Associate's Degree,Medical,2017
+1098,1098,MIT,Associate's Degree,Technical Degree,2016
+1099,1099,University of California,Associate's Degree,Life Sciences,2018
+1100,1100,MIT,Master's Degree,Technical Degree,2016
+1101,1101,University of California,Master's Degree,Life Sciences,2018
+1102,1102,University of California,Associate's Degree,Life Sciences,2018
+1103,1103,University of California,Master's Degree,Life Sciences,2018
+1104,1104,University of California,Master's Degree,Life Sciences,2018
+1105,1105,University of California,Bachelor's Degree,Life Sciences,2018
+1106,1106,University of California,Master's Degree,Life Sciences,2018
+1107,1107,University of California,Bachelor's Degree,Life Sciences,2018
+1108,1108,Cornell University,Master's Degree,Human Resources,2018
+1109,1109,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1110,1110,MIT,Master's Degree,Technical Degree,2016
+1111,1111,University of California,Bachelor's Degree,Life Sciences,2018
+1112,1112,MIT,Doctoral Degree,Technical Degree,2016
+1113,1113,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1114,1114,MIT,Master's Degree,Technical Degree,2016
+1115,1115,State University,Master's Degree,Other,2019
+1116,1116,Johns Hopkins University,Master's Degree,Medical,2017
+1117,1117,New York University,Doctoral Degree,Marketing,2019
+1118,1118,University of California,Master's Degree,Life Sciences,2018
+1119,1119,University of California,Bachelor's Degree,Life Sciences,2018
+1120,1120,University of California,Bachelor's Degree,Life Sciences,2018
+1121,1121,University of California,Bachelor's Degree,Life Sciences,2018
+1122,1122,University of California,Master's Degree,Life Sciences,2018
+1123,1123,Johns Hopkins University,High School Diploma,Medical,2017
+1124,1124,Johns Hopkins University,Master's Degree,Medical,2017
+1125,1125,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1126,1126,University of California,High School Diploma,Life Sciences,2018
+1127,1127,New York University,Bachelor's Degree,Marketing,2019
+1128,1128,MIT,Bachelor's Degree,Technical Degree,2016
+1129,1129,University of California,Master's Degree,Life Sciences,2018
+1130,1130,State University,Associate's Degree,Other,2019
+1131,1131,University of California,Bachelor's Degree,Life Sciences,2018
+1132,1132,MIT,Master's Degree,Technical Degree,2016
+1133,1133,University of California,Associate's Degree,Life Sciences,2018
+1134,1134,MIT,Bachelor's Degree,Technical Degree,2016
+1135,1135,University of California,Associate's Degree,Life Sciences,2018
+1136,1136,University of California,Master's Degree,Life Sciences,2018
+1137,1137,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1138,1138,State University,Associate's Degree,Other,2019
+1139,1139,Johns Hopkins University,Doctoral Degree,Medical,2017
+1140,1140,State University,Master's Degree,Other,2019
+1141,1141,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1142,1142,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1143,1143,Johns Hopkins University,Doctoral Degree,Medical,2017
+1144,1144,New York University,Bachelor's Degree,Marketing,2019
+1145,1145,State University,Master's Degree,Other,2019
+1146,1146,University of California,Master's Degree,Life Sciences,2018
+1147,1147,University of California,Master's Degree,Life Sciences,2018
+1148,1148,University of California,Master's Degree,Life Sciences,2018
+1149,1149,Johns Hopkins University,Doctoral Degree,Medical,2017
+1150,1150,State University,Bachelor's Degree,Other,2019
+1151,1151,University of California,Doctoral Degree,Life Sciences,2018
+1152,1152,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1153,1153,Johns Hopkins University,High School Diploma,Medical,2017
+1154,1154,Johns Hopkins University,Associate's Degree,Medical,2017
+1155,1155,University of California,Master's Degree,Life Sciences,2018
+1156,1156,Johns Hopkins University,Associate's Degree,Medical,2017
+1157,1157,University of California,Bachelor's Degree,Life Sciences,2018
+1158,1158,University of California,Master's Degree,Life Sciences,2018
+1159,1159,University of California,Bachelor's Degree,Life Sciences,2018
+1160,1160,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1161,1161,State University,Associate's Degree,Other,2019
+1162,1162,Johns Hopkins University,Associate's Degree,Medical,2017
+1163,1163,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1164,1164,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1165,1165,University of California,Bachelor's Degree,Life Sciences,2018
+1166,1166,Cornell University,Doctoral Degree,Human Resources,2018
+1167,1167,Johns Hopkins University,Doctoral Degree,Medical,2017
+1168,1168,Johns Hopkins University,Associate's Degree,Medical,2017
+1169,1169,MIT,High School Diploma,Technical Degree,2016
+1170,1170,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1171,1171,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1172,1172,University of California,Bachelor's Degree,Life Sciences,2018
+1173,1173,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1174,1174,University of California,Master's Degree,Life Sciences,2018
+1175,1175,University of California,High School Diploma,Life Sciences,2018
+1176,1176,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1177,1177,State University,Master's Degree,Other,2019
+1178,1178,University of California,Doctoral Degree,Life Sciences,2018
+1179,1179,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1180,1180,University of California,Bachelor's Degree,Life Sciences,2018
+1181,1181,University of California,Bachelor's Degree,Life Sciences,2018
+1182,1182,University of California,High School Diploma,Life Sciences,2018
+1183,1183,Johns Hopkins University,Master's Degree,Medical,2017
+1184,1184,University of California,Associate's Degree,Life Sciences,2018
+1185,1185,Johns Hopkins University,Doctoral Degree,Medical,2017
+1186,1186,University of California,Associate's Degree,Life Sciences,2018
+1187,1187,State University,Master's Degree,Other,2019
+1188,1188,University of California,Bachelor's Degree,Life Sciences,2018
+1189,1189,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1190,1190,Johns Hopkins University,Master's Degree,Medical,2017
+1191,1191,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1192,1192,University of California,Master's Degree,Life Sciences,2018
+1193,1193,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1194,1194,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1195,1195,University of California,Master's Degree,Life Sciences,2018
+1196,1196,University of California,Bachelor's Degree,Life Sciences,2018
+1197,1197,University of California,Associate's Degree,Life Sciences,2018
+1198,1198,University of California,High School Diploma,Life Sciences,2018
+1199,1199,University of California,Bachelor's Degree,Life Sciences,2018
+1200,1200,University of California,Master's Degree,Life Sciences,2018
+1201,1201,University of California,Bachelor's Degree,Life Sciences,2018
+1202,1202,Johns Hopkins University,High School Diploma,Medical,2017
+1203,1203,Johns Hopkins University,Associate's Degree,Medical,2017
+1204,1204,Johns Hopkins University,Master's Degree,Medical,2017
+1205,1205,Johns Hopkins University,Associate's Degree,Medical,2017
+1206,1206,University of California,Master's Degree,Life Sciences,2018
+1207,1207,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1208,1208,MIT,Bachelor's Degree,Technical Degree,2016
+1209,1209,Johns Hopkins University,Associate's Degree,Medical,2017
+1210,1210,Johns Hopkins University,Master's Degree,Medical,2017
+1211,1211,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1212,1212,Johns Hopkins University,Master's Degree,Medical,2017
+1213,1213,University of California,Bachelor's Degree,Life Sciences,2018
+1214,1214,University of California,Bachelor's Degree,Life Sciences,2018
+1215,1215,University of California,Bachelor's Degree,Life Sciences,2018
+1216,1216,Johns Hopkins University,Master's Degree,Medical,2017
+1217,1217,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1218,1218,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1219,1219,New York University,Bachelor's Degree,Marketing,2019
+1220,1220,Johns Hopkins University,Master's Degree,Medical,2017
+1221,1221,University of California,Master's Degree,Life Sciences,2018
+1222,1222,University of California,High School Diploma,Life Sciences,2018
+1223,1223,Cornell University,High School Diploma,Human Resources,2018
+1224,1224,University of California,Bachelor's Degree,Life Sciences,2018
+1225,1225,Johns Hopkins University,Master's Degree,Medical,2017
+1226,1226,MIT,Associate's Degree,Technical Degree,2016
+1227,1227,University of California,Bachelor's Degree,Life Sciences,2018
+1228,1228,University of California,Master's Degree,Life Sciences,2018
+1229,1229,Cornell University,Bachelor's Degree,Human Resources,2018
+1230,1230,University of California,Associate's Degree,Life Sciences,2018
+1231,1231,Johns Hopkins University,High School Diploma,Medical,2017
+1232,1232,University of California,Master's Degree,Life Sciences,2018
+1233,1233,University of California,Master's Degree,Life Sciences,2018
+1234,1234,University of California,High School Diploma,Life Sciences,2018
+1235,1235,New York University,Master's Degree,Marketing,2019
+1236,1236,University of California,Bachelor's Degree,Life Sciences,2018
+1237,1237,New York University,Doctoral Degree,Marketing,2019
+1238,1238,University of California,Associate's Degree,Life Sciences,2018
+1239,1239,Johns Hopkins University,High School Diploma,Medical,2017
+1240,1240,MIT,High School Diploma,Technical Degree,2016
+1241,1241,University of California,Bachelor's Degree,Life Sciences,2018
+1242,1242,University of California,Bachelor's Degree,Life Sciences,2018
+1243,1243,Johns Hopkins University,Master's Degree,Medical,2017
+1244,1244,University of California,Bachelor's Degree,Life Sciences,2018
+1245,1245,MIT,Master's Degree,Technical Degree,2016
+1246,1246,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1247,1247,Cornell University,Bachelor's Degree,Human Resources,2018
+1248,1248,MIT,Bachelor's Degree,Technical Degree,2016
+1249,1249,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1250,1250,New York University,Bachelor's Degree,Marketing,2019
+1251,1251,University of California,Bachelor's Degree,Life Sciences,2018
+1252,1252,New York University,Associate's Degree,Marketing,2019
+1253,1253,Johns Hopkins University,Master's Degree,Medical,2017
+1254,1254,New York University,Bachelor's Degree,Marketing,2019
+1255,1255,New York University,Master's Degree,Marketing,2019
+1256,1256,University of California,Bachelor's Degree,Life Sciences,2018
+1257,1257,Johns Hopkins University,Associate's Degree,Medical,2017
+1258,1258,New York University,Master's Degree,Marketing,2019
+1259,1259,MIT,Bachelor's Degree,Technical Degree,2016
+1260,1260,University of California,Bachelor's Degree,Life Sciences,2018
+1261,1261,MIT,Master's Degree,Technical Degree,2016
+1262,1262,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1263,1263,MIT,Bachelor's Degree,Technical Degree,2016
+1264,1264,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1265,1265,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1266,1266,MIT,Bachelor's Degree,Technical Degree,2016
+1267,1267,University of California,Master's Degree,Life Sciences,2018
+1268,1268,University of California,Bachelor's Degree,Life Sciences,2018
+1269,1269,Johns Hopkins University,Master's Degree,Medical,2017
+1270,1270,University of California,Bachelor's Degree,Life Sciences,2018
+1271,1271,University of California,Associate's Degree,Life Sciences,2018
+1272,1272,New York University,High School Diploma,Marketing,2019
+1273,1273,State University,Associate's Degree,Other,2019
+1274,1274,Johns Hopkins University,High School Diploma,Medical,2017
+1275,1275,New York University,Master's Degree,Marketing,2019
+1276,1276,MIT,Bachelor's Degree,Technical Degree,2016
+1277,1277,New York University,Associate's Degree,Marketing,2019
+1278,1278,Johns Hopkins University,Master's Degree,Medical,2017
+1279,1279,University of California,Bachelor's Degree,Life Sciences,2018
+1280,1280,Johns Hopkins University,Associate's Degree,Medical,2017
+1281,1281,State University,Associate's Degree,Other,2019
+1282,1282,University of California,Bachelor's Degree,Life Sciences,2018
+1283,1283,University of California,Master's Degree,Life Sciences,2018
+1284,1284,University of California,Bachelor's Degree,Life Sciences,2018
+1285,1285,Johns Hopkins University,High School Diploma,Medical,2017
+1286,1286,University of California,Associate's Degree,Life Sciences,2018
+1287,1287,University of California,Associate's Degree,Life Sciences,2018
+1288,1288,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1289,1289,Johns Hopkins University,Associate's Degree,Medical,2017
+1290,1290,Cornell University,Bachelor's Degree,Human Resources,2018
+1291,1291,University of California,Master's Degree,Life Sciences,2018
+1292,1292,Johns Hopkins University,Master's Degree,Medical,2017
+1293,1293,University of California,Bachelor's Degree,Life Sciences,2018
+1294,1294,University of California,Bachelor's Degree,Life Sciences,2018
+1295,1295,University of California,Bachelor's Degree,Life Sciences,2018
+1296,1296,New York University,High School Diploma,Marketing,2019
+1297,1297,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1298,1298,Johns Hopkins University,Associate's Degree,Medical,2017
+1299,1299,Johns Hopkins University,Associate's Degree,Medical,2017
+1300,1300,University of California,Bachelor's Degree,Life Sciences,2018
+1301,1301,MIT,Associate's Degree,Technical Degree,2016
+1302,1302,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1303,1303,Johns Hopkins University,Master's Degree,Medical,2017
+1304,1304,University of California,Bachelor's Degree,Life Sciences,2018
+1305,1305,University of California,Bachelor's Degree,Life Sciences,2018
+1306,1306,Johns Hopkins University,Master's Degree,Medical,2017
+1307,1307,New York University,Master's Degree,Marketing,2019
+1308,1308,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1309,1309,New York University,Master's Degree,Marketing,2019
+1310,1310,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1311,1311,University of California,Master's Degree,Life Sciences,2018
+1312,1312,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1313,1313,Cornell University,Doctoral Degree,Human Resources,2018
+1314,1314,Cornell University,Bachelor's Degree,Human Resources,2018
+1315,1315,University of California,Master's Degree,Life Sciences,2018
+1316,1316,State University,Master's Degree,Other,2019
+1317,1317,University of California,Master's Degree,Life Sciences,2018
+1318,1318,University of California,Associate's Degree,Life Sciences,2018
+1319,1319,Johns Hopkins University,High School Diploma,Medical,2017
+1320,1320,New York University,Master's Degree,Marketing,2019
+1321,1321,MIT,Master's Degree,Technical Degree,2016
+1322,1322,University of California,Master's Degree,Life Sciences,2018
+1323,1323,University of California,Associate's Degree,Life Sciences,2018
+1324,1324,University of California,Associate's Degree,Life Sciences,2018
+1325,1325,University of California,High School Diploma,Life Sciences,2018
+1326,1326,University of California,Bachelor's Degree,Life Sciences,2018
+1327,1327,New York University,Master's Degree,Marketing,2019
+1328,1328,MIT,Bachelor's Degree,Technical Degree,2016
+1329,1329,Johns Hopkins University,High School Diploma,Medical,2017
+1330,1330,Johns Hopkins University,High School Diploma,Medical,2017
+1331,1331,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1332,1332,University of California,Bachelor's Degree,Life Sciences,2018
+1333,1333,University of California,Associate's Degree,Life Sciences,2018
+1334,1334,University of California,Bachelor's Degree,Life Sciences,2018
+1335,1335,University of California,Bachelor's Degree,Life Sciences,2018
+1336,1336,State University,Master's Degree,Other,2019
+1337,1337,MIT,Master's Degree,Technical Degree,2016
+1338,1338,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1339,1339,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1340,1340,University of California,High School Diploma,Life Sciences,2018
+1341,1341,MIT,Master's Degree,Technical Degree,2016
+1342,1342,University of California,Bachelor's Degree,Life Sciences,2018
+1343,1343,University of California,Bachelor's Degree,Life Sciences,2018
+1344,1344,University of California,Bachelor's Degree,Life Sciences,2018
+1345,1345,Johns Hopkins University,Master's Degree,Medical,2017
+1346,1346,State University,Associate's Degree,Other,2019
+1347,1347,University of California,Associate's Degree,Life Sciences,2018
+1348,1348,Cornell University,High School Diploma,Human Resources,2018
+1349,1349,University of California,Master's Degree,Life Sciences,2018
+1350,1350,University of California,Associate's Degree,Life Sciences,2018
+1351,1351,Johns Hopkins University,Associate's Degree,Medical,2017
+1352,1352,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1353,1353,University of California,Master's Degree,Life Sciences,2018
+1354,1354,MIT,Master's Degree,Technical Degree,2016
+1355,1355,University of California,Associate's Degree,Life Sciences,2018
+1356,1356,New York University,Associate's Degree,Marketing,2019
+1357,1357,New York University,Bachelor's Degree,Marketing,2019
+1358,1358,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1359,1359,Johns Hopkins University,Associate's Degree,Medical,2017
+1360,1360,Johns Hopkins University,High School Diploma,Medical,2017
+1361,1361,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1362,1362,State University,Bachelor's Degree,Other,2019
+1363,1363,Johns Hopkins University,Master's Degree,Medical,2017
+1364,1364,New York University,Master's Degree,Marketing,2019
+1365,1365,University of California,Associate's Degree,Life Sciences,2018
+1366,1366,MIT,Bachelor's Degree,Technical Degree,2016
+1367,1367,University of California,Master's Degree,Life Sciences,2018
+1368,1368,MIT,Master's Degree,Technical Degree,2016
+1369,1369,State University,Master's Degree,Other,2019
+1370,1370,New York University,Associate's Degree,Marketing,2019
+1371,1371,MIT,Master's Degree,Technical Degree,2016
+1372,1372,New York University,Doctoral Degree,Marketing,2019
+1373,1373,Johns Hopkins University,Associate's Degree,Medical,2017
+1374,1374,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1375,1375,University of California,Bachelor's Degree,Life Sciences,2018
+1376,1376,University of California,Associate's Degree,Life Sciences,2018
+1377,1377,University of California,Associate's Degree,Life Sciences,2018
+1378,1378,University of California,High School Diploma,Life Sciences,2018
+1379,1379,New York University,Master's Degree,Marketing,2019
+1380,1380,Cornell University,Bachelor's Degree,Human Resources,2018
+1381,1381,Johns Hopkins University,Master's Degree,Medical,2017
+1382,1382,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1383,1383,Johns Hopkins University,Associate's Degree,Medical,2017
+1384,1384,University of California,Master's Degree,Life Sciences,2018
+1385,1385,New York University,Bachelor's Degree,Marketing,2019
+1386,1386,Johns Hopkins University,Master's Degree,Medical,2017
+1387,1387,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1388,1388,University of California,Bachelor's Degree,Life Sciences,2018
+1389,1389,Johns Hopkins University,Master's Degree,Medical,2017
+1390,1390,University of California,Bachelor's Degree,Life Sciences,2018
+1391,1391,MIT,Bachelor's Degree,Technical Degree,2016
+1392,1392,University of California,Bachelor's Degree,Life Sciences,2018
+1393,1393,University of California,Master's Degree,Life Sciences,2018
+1394,1394,New York University,Bachelor's Degree,Marketing,2019
+1395,1395,University of California,Master's Degree,Life Sciences,2018
+1396,1396,New York University,Master's Degree,Marketing,2019
+1397,1397,University of California,Master's Degree,Life Sciences,2018
+1398,1398,University of California,Associate's Degree,Life Sciences,2018
+1399,1399,University of California,Associate's Degree,Life Sciences,2018
+1400,1400,University of California,Bachelor's Degree,Life Sciences,2018
+1401,1401,State University,Master's Degree,Other,2019
+1402,1402,Cornell University,Master's Degree,Human Resources,2018
+1403,1403,Johns Hopkins University,High School Diploma,Medical,2017
+1404,1404,New York University,Master's Degree,Marketing,2019
+1405,1405,University of California,Associate's Degree,Life Sciences,2018
+1406,1406,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1407,1407,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1408,1408,University of California,Associate's Degree,Life Sciences,2018
+1409,1409,State University,Associate's Degree,Other,2019
+1410,1410,MIT,Bachelor's Degree,Technical Degree,2016
+1411,1411,New York University,Associate's Degree,Marketing,2019
+1412,1412,Cornell University,Bachelor's Degree,Human Resources,2018
+1413,1413,Johns Hopkins University,Associate's Degree,Medical,2017
+1414,1414,State University,High School Diploma,Other,2019
+1415,1415,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1416,1416,Johns Hopkins University,Associate's Degree,Medical,2017
+1417,1417,University of California,Master's Degree,Life Sciences,2018
+1418,1418,University of California,Associate's Degree,Life Sciences,2018
+1419,1419,University of California,Master's Degree,Life Sciences,2018
+1420,1420,University of California,Master's Degree,Life Sciences,2018
+1421,1421,University of California,Bachelor's Degree,Life Sciences,2018
+1422,1422,Johns Hopkins University,High School Diploma,Medical,2017
+1423,1423,Johns Hopkins University,Master's Degree,Medical,2017
+1424,1424,University of California,Associate's Degree,Life Sciences,2018
+1425,1425,Johns Hopkins University,Master's Degree,Medical,2017
+1426,1426,Johns Hopkins University,Associate's Degree,Medical,2017
+1427,1427,University of California,Master's Degree,Life Sciences,2018
+1428,1428,University of California,Master's Degree,Life Sciences,2018
+1429,1429,Johns Hopkins University,Master's Degree,Medical,2017
+1430,1430,University of California,High School Diploma,Life Sciences,2018
+1431,1431,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1432,1432,New York University,Master's Degree,Marketing,2019
+1433,1433,University of California,Bachelor's Degree,Life Sciences,2018
+1434,1434,State University,Associate's Degree,Other,2019
+1435,1435,University of California,Master's Degree,Life Sciences,2018
+1436,1436,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1437,1437,Johns Hopkins University,High School Diploma,Medical,2017
+1438,1438,University of California,Bachelor's Degree,Life Sciences,2018
+1439,1439,New York University,Bachelor's Degree,Marketing,2019
+1440,1440,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1441,1441,University of California,Associate's Degree,Life Sciences,2018
+1442,1442,University of California,Master's Degree,Life Sciences,2018
+1443,1443,Johns Hopkins University,Master's Degree,Medical,2017
+1444,1444,University of California,Bachelor's Degree,Life Sciences,2018
+1445,1445,MIT,Associate's Degree,Technical Degree,2016
+1446,1446,University of California,Master's Degree,Life Sciences,2018
+1447,1447,New York University,Bachelor's Degree,Marketing,2019
+1448,1448,New York University,Master's Degree,Marketing,2019
+1449,1449,University of California,Bachelor's Degree,Life Sciences,2018
+1450,1450,MIT,Bachelor's Degree,Technical Degree,2016
+1451,1451,University of California,Master's Degree,Life Sciences,2018
+1452,1452,University of California,Associate's Degree,Life Sciences,2018
+1453,1453,University of California,Master's Degree,Life Sciences,2018
+1454,1454,New York University,Master's Degree,Marketing,2019
+1455,1455,University of California,Bachelor's Degree,Life Sciences,2018
+1456,1456,University of California,Master's Degree,Life Sciences,2018
+1457,1457,University of California,Master's Degree,Life Sciences,2018
+1458,1458,Johns Hopkins University,Master's Degree,Medical,2017
+1459,1459,University of California,Master's Degree,Life Sciences,2018
+1460,1460,State University,Associate's Degree,Other,2019
+1461,1461,Johns Hopkins University,Master's Degree,Medical,2017
+1462,1462,New York University,Bachelor's Degree,Marketing,2019
+1463,1463,New York University,High School Diploma,Marketing,2019
+1464,1464,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1465,1465,State University,Bachelor's Degree,Other,2019
+1466,1466,Johns Hopkins University,Associate's Degree,Medical,2017
+1467,1467,Johns Hopkins University,High School Diploma,Medical,2017
+1468,1468,University of California,Bachelor's Degree,Life Sciences,2018
+1469,1469,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1470,1470,Johns Hopkins University,Bachelor's Degree,Medical,2017
+1471,1,Harvard Business School,Master's Degree,Mkt&HR,2020
+1472,2,Wharton School,Master's Degree,Mkt&Fin,2020
+1473,3,Wharton School,Master's Degree,Mkt&Fin,2020
+1474,4,Harvard Business School,Master's Degree,Mkt&HR,2020
+1475,5,Wharton School,Master's Degree,Mkt&Fin,2020
+1476,6,Wharton School,Master's Degree,Mkt&Fin,2020
+1477,7,Wharton School,Master's Degree,Mkt&Fin,2020
+1478,8,Wharton School,Master's Degree,Mkt&Fin,2020
+1479,9,Wharton School,Master's Degree,Mkt&Fin,2020
+1480,10,Wharton School,Master's Degree,Mkt&Fin,2020
+1481,11,Harvard Business School,Master's Degree,Mkt&HR,2020
+1482,12,Wharton School,Master's Degree,Mkt&Fin,2020
+1483,13,Harvard Business School,Master's Degree,Mkt&HR,2020
+1484,14,Wharton School,Master's Degree,Mkt&Fin,2020
+1485,15,Harvard Business School,Master's Degree,Mkt&HR,2020
+1486,16,Wharton School,Master's Degree,Mkt&Fin,2020
+1487,17,Wharton School,Master's Degree,Mkt&Fin,2020
+1488,18,Wharton School,Master's Degree,Mkt&Fin,2020
+1489,19,Harvard Business School,Master's Degree,Mkt&HR,2020
+1490,20,Wharton School,Master's Degree,Mkt&Fin,2020
+1491,21,Harvard Business School,Master's Degree,Mkt&HR,2020
+1492,22,Wharton School,Master's Degree,Mkt&Fin,2020
+1493,23,Harvard Business School,Master's Degree,Mkt&HR,2020
+1494,24,Wharton School,Master's Degree,Mkt&Fin,2020
+1495,25,Wharton School,Master's Degree,Mkt&Fin,2020
+1496,26,Wharton School,Master's Degree,Mkt&Fin,2020
+1497,27,Wharton School,Master's Degree,Mkt&Fin,2020
+1498,28,Harvard Business School,Master's Degree,Mkt&HR,2020
+1499,29,Wharton School,Master's Degree,Mkt&Fin,2020
+1500,30,Wharton School,Master's Degree,Mkt&Fin,2020
+1501,31,Harvard Business School,Master's Degree,Mkt&HR,2020
+1502,32,Harvard Business School,Master's Degree,Mkt&HR,2020
+1503,33,Harvard Business School,Master's Degree,Mkt&HR,2020
+1504,34,Wharton School,Master's Degree,Mkt&Fin,2020
+1505,35,Harvard Business School,Master's Degree,Mkt&HR,2020
+1506,36,Harvard Business School,Master's Degree,Mkt&HR,2020
+1507,37,Wharton School,Master's Degree,Mkt&Fin,2020
+1508,38,Harvard Business School,Master's Degree,Mkt&HR,2020
+1509,39,Harvard Business School,Master's Degree,Mkt&HR,2020
+1510,40,Wharton School,Master's Degree,Mkt&Fin,2020
+1511,41,Wharton School,Master's Degree,Mkt&Fin,2020
+1512,42,Harvard Business School,Master's Degree,Mkt&HR,2020
+1513,43,Wharton School,Master's Degree,Mkt&Fin,2020
+1514,44,Harvard Business School,Master's Degree,Mkt&HR,2020
+1515,45,Wharton School,Master's Degree,Mkt&Fin,2020
+1516,46,Harvard Business School,Master's Degree,Mkt&HR,2020
+1517,47,Harvard Business School,Master's Degree,Mkt&HR,2020
+1518,48,Wharton School,Master's Degree,Mkt&Fin,2020
+1519,49,Wharton School,Master's Degree,Mkt&Fin,2020
+1520,50,Harvard Business School,Master's Degree,Mkt&HR,2020
+1521,51,Harvard Business School,Master's Degree,Mkt&HR,2020
+1522,52,Harvard Business School,Master's Degree,Mkt&HR,2020
+1523,53,Harvard Business School,Master's Degree,Mkt&HR,2020
+1524,54,Harvard Business School,Master's Degree,Mkt&HR,2020
+1525,55,Harvard Business School,Master's Degree,Mkt&HR,2020
+1526,56,Harvard Business School,Master's Degree,Mkt&HR,2020
+1527,57,Wharton School,Master's Degree,Mkt&Fin,2020
+1528,58,Wharton School,Master's Degree,Mkt&Fin,2020
+1529,59,Wharton School,Master's Degree,Mkt&Fin,2020
+1530,60,Wharton School,Master's Degree,Mkt&Fin,2020
+1531,61,Wharton School,Master's Degree,Mkt&Fin,2020
+1532,62,Wharton School,Master's Degree,Mkt&Fin,2020
+1533,63,Wharton School,Master's Degree,Mkt&Fin,2020
+1534,64,Harvard Business School,Master's Degree,Mkt&HR,2020
+1535,65,Wharton School,Master's Degree,Mkt&Fin,2020
+1536,66,Harvard Business School,Master's Degree,Mkt&HR,2020
+1537,67,Harvard Business School,Master's Degree,Mkt&HR,2020
+1538,68,Wharton School,Master's Degree,Mkt&Fin,2020
+1539,69,Harvard Business School,Master's Degree,Mkt&HR,2020
+1540,70,Wharton School,Master's Degree,Mkt&Fin,2020
+1541,71,Wharton School,Master's Degree,Mkt&Fin,2020
+1542,72,Wharton School,Master's Degree,Mkt&Fin,2020
+1543,73,Wharton School,Master's Degree,Mkt&Fin,2020
+1544,74,Wharton School,Master's Degree,Mkt&Fin,2020
+1545,75,Wharton School,Master's Degree,Mkt&Fin,2020
+1546,76,Harvard Business School,Master's Degree,Mkt&HR,2020
+1547,77,Wharton School,Master's Degree,Mkt&Fin,2020
+1548,78,Wharton School,Master's Degree,Mkt&Fin,2020
+1549,79,Wharton School,Master's Degree,Mkt&Fin,2020
+1550,80,Harvard Business School,Master's Degree,Mkt&HR,2020
+1551,81,Harvard Business School,Master's Degree,Mkt&HR,2020
+1552,82,Wharton School,Master's Degree,Mkt&Fin,2020
+1553,83,Wharton School,Master's Degree,Mkt&Fin,2020
+1554,84,Wharton School,Master's Degree,Mkt&Fin,2020
+1555,85,Wharton School,Master's Degree,Mkt&Fin,2020
+1556,86,Wharton School,Master's Degree,Mkt&Fin,2020
+1557,87,Wharton School,Master's Degree,Mkt&Fin,2020
+1558,88,Harvard Business School,Master's Degree,Mkt&HR,2020
+1559,89,Harvard Business School,Master's Degree,Mkt&HR,2020
+1560,90,Harvard Business School,Master's Degree,Mkt&HR,2020
+1561,91,Wharton School,Master's Degree,Mkt&Fin,2020
+1562,92,Harvard Business School,Master's Degree,Mkt&HR,2020
+1563,93,Wharton School,Master's Degree,Mkt&Fin,2020
+1564,94,Harvard Business School,Master's Degree,Mkt&HR,2020
+1565,95,Wharton School,Master's Degree,Mkt&Fin,2020
+1566,96,Wharton School,Master's Degree,Mkt&Fin,2020
+1567,97,Wharton School,Master's Degree,Mkt&Fin,2020
+1568,98,Wharton School,Master's Degree,Mkt&Fin,2020
+1569,99,Wharton School,Master's Degree,Mkt&Fin,2020
+1570,100,Wharton School,Master's Degree,Mkt&Fin,2020
+1571,101,Harvard Business School,Master's Degree,Mkt&HR,2020
+1572,102,Harvard Business School,Master's Degree,Mkt&HR,2020
+1573,103,Wharton School,Master's Degree,Mkt&Fin,2020
+1574,104,Harvard Business School,Master's Degree,Mkt&HR,2020
+1575,105,Harvard Business School,Master's Degree,Mkt&HR,2020
+1576,106,Harvard Business School,Master's Degree,Mkt&HR,2020
+1577,107,Wharton School,Master's Degree,Mkt&Fin,2020
+1578,108,Harvard Business School,Master's Degree,Mkt&HR,2020
+1579,109,Wharton School,Master's Degree,Mkt&Fin,2020
+1580,110,Harvard Business School,Master's Degree,Mkt&HR,2020
+1581,111,Harvard Business School,Master's Degree,Mkt&HR,2020
+1582,112,Harvard Business School,Master's Degree,Mkt&HR,2020
+1583,113,Harvard Business School,Master's Degree,Mkt&HR,2020
+1584,114,Wharton School,Master's Degree,Mkt&Fin,2020
+1585,115,Harvard Business School,Master's Degree,Mkt&HR,2020
+1586,116,Wharton School,Master's Degree,Mkt&Fin,2020
+1587,117,Wharton School,Master's Degree,Mkt&Fin,2020
+1588,118,Wharton School,Master's Degree,Mkt&Fin,2020
+1589,119,Harvard Business School,Master's Degree,Mkt&HR,2020
+1590,120,Wharton School,Master's Degree,Mkt&Fin,2020
+1591,121,Harvard Business School,Master's Degree,Mkt&HR,2020
+1592,122,Harvard Business School,Master's Degree,Mkt&HR,2020
+1593,123,Wharton School,Master's Degree,Mkt&Fin,2020
+1594,124,Harvard Business School,Master's Degree,Mkt&HR,2020
+1595,125,Harvard Business School,Master's Degree,Mkt&HR,2020
+1596,126,Wharton School,Master's Degree,Mkt&Fin,2020
+1597,127,Wharton School,Master's Degree,Mkt&Fin,2020
+1598,128,Harvard Business School,Master's Degree,Mkt&HR,2020
+1599,129,Harvard Business School,Master's Degree,Mkt&HR,2020
+1600,130,Wharton School,Master's Degree,Mkt&Fin,2020
+1601,131,Wharton School,Master's Degree,Mkt&Fin,2020
+1602,132,Wharton School,Master's Degree,Mkt&Fin,2020
+1603,133,Harvard Business School,Master's Degree,Mkt&HR,2020
+1604,134,Harvard Business School,Master's Degree,Mkt&HR,2020
+1605,135,Wharton School,Master's Degree,Mkt&Fin,2020
+1606,136,Harvard Business School,Master's Degree,Mkt&HR,2020
+1607,137,Wharton School,Master's Degree,Mkt&Fin,2020
+1608,138,Harvard Business School,Master's Degree,Mkt&HR,2020
+1609,139,Wharton School,Master's Degree,Mkt&Fin,2020
+1610,140,Wharton School,Master's Degree,Mkt&Fin,2020
+1611,141,Wharton School,Master's Degree,Mkt&Fin,2020
+1612,142,Harvard Business School,Master's Degree,Mkt&HR,2020
+1613,143,Wharton School,Master's Degree,Mkt&Fin,2020
+1614,144,Wharton School,Master's Degree,Mkt&Fin,2020
+1615,145,Wharton School,Master's Degree,Mkt&Fin,2020
+1616,146,Harvard Business School,Master's Degree,Mkt&HR,2020
+1617,147,Harvard Business School,Master's Degree,Mkt&HR,2020
+1618,148,Wharton School,Master's Degree,Mkt&Fin,2020
+1619,149,Wharton School,Master's Degree,Mkt&Fin,2020
+1620,150,Harvard Business School,Master's Degree,Mkt&HR,2020
+1621,151,Wharton School,Master's Degree,Mkt&Fin,2020
+1622,152,Wharton School,Master's Degree,Mkt&Fin,2020
+1623,153,Wharton School,Master's Degree,Mkt&Fin,2020
+1624,154,Wharton School,Master's Degree,Mkt&Fin,2020
+1625,155,Wharton School,Master's Degree,Mkt&Fin,2020
+1626,156,Harvard Business School,Master's Degree,Mkt&HR,2020
+1627,157,Harvard Business School,Master's Degree,Mkt&HR,2020
+1628,158,Wharton School,Master's Degree,Mkt&Fin,2020
+1629,159,Wharton School,Master's Degree,Mkt&Fin,2020
+1630,160,Harvard Business School,Master's Degree,Mkt&HR,2020
+1631,161,Harvard Business School,Master's Degree,Mkt&HR,2020
+1632,162,Harvard Business School,Master's Degree,Mkt&HR,2020
+1633,163,Wharton School,Master's Degree,Mkt&Fin,2020
+1634,164,Wharton School,Master's Degree,Mkt&Fin,2020
+1635,165,Wharton School,Master's Degree,Mkt&Fin,2020
+1636,166,Wharton School,Master's Degree,Mkt&Fin,2020
+1637,167,Harvard Business School,Master's Degree,Mkt&HR,2020
+1638,168,Wharton School,Master's Degree,Mkt&Fin,2020
+1639,169,Harvard Business School,Master's Degree,Mkt&HR,2020
+1640,170,Harvard Business School,Master's Degree,Mkt&HR,2020
+1641,171,Harvard Business School,Master's Degree,Mkt&HR,2020
+1642,172,Wharton School,Master's Degree,Mkt&Fin,2020
+1643,173,Harvard Business School,Master's Degree,Mkt&HR,2020
+1644,174,Harvard Business School,Master's Degree,Mkt&HR,2020
+1645,175,Wharton School,Master's Degree,Mkt&Fin,2020
+1646,176,Harvard Business School,Master's Degree,Mkt&HR,2020
+1647,177,Harvard Business School,Master's Degree,Mkt&HR,2020
+1648,178,Wharton School,Master's Degree,Mkt&Fin,2020
+1649,179,Harvard Business School,Master's Degree,Mkt&HR,2020
+1650,180,Harvard Business School,Master's Degree,Mkt&HR,2020
+1651,181,Wharton School,Master's Degree,Mkt&Fin,2020
+1652,182,Harvard Business School,Master's Degree,Mkt&HR,2020
+1653,183,Wharton School,Master's Degree,Mkt&Fin,2020
+1654,184,Harvard Business School,Master's Degree,Mkt&HR,2020
+1655,185,Harvard Business School,Master's Degree,Mkt&HR,2020
+1656,186,Harvard Business School,Master's Degree,Mkt&HR,2020
+1657,187,Wharton School,Master's Degree,Mkt&Fin,2020
+1658,188,Wharton School,Master's Degree,Mkt&Fin,2020
+1659,189,Wharton School,Master's Degree,Mkt&Fin,2020
+1660,190,Wharton School,Master's Degree,Mkt&Fin,2020
+1661,191,Wharton School,Master's Degree,Mkt&Fin,2020
+1662,192,Wharton School,Master's Degree,Mkt&Fin,2020
+1663,193,Wharton School,Master's Degree,Mkt&Fin,2020
+1664,194,Harvard Business School,Master's Degree,Mkt&HR,2020
+1665,195,Wharton School,Master's Degree,Mkt&Fin,2020
+1666,196,Harvard Business School,Master's Degree,Mkt&HR,2020
+1667,197,Wharton School,Master's Degree,Mkt&Fin,2020
+1668,198,Harvard Business School,Master's Degree,Mkt&HR,2020
+1669,199,Harvard Business School,Master's Degree,Mkt&HR,2020
+1670,200,Harvard Business School,Master's Degree,Mkt&HR,2020
+1671,201,Wharton School,Master's Degree,Mkt&Fin,2020
+1672,202,Harvard Business School,Master's Degree,Mkt&HR,2020
+1673,203,Harvard Business School,Master's Degree,Mkt&HR,2020
+1674,204,Harvard Business School,Master's Degree,Mkt&HR,2020
+1675,205,Wharton School,Master's Degree,Mkt&Fin,2020
+1676,206,Wharton School,Master's Degree,Mkt&Fin,2020
+1677,207,Wharton School,Master's Degree,Mkt&Fin,2020
+1678,208,Wharton School,Master's Degree,Mkt&Fin,2020
+1679,209,Harvard Business School,Master's Degree,Mkt&HR,2020
+1680,210,Wharton School,Master's Degree,Mkt&Fin,2020
+1681,211,Wharton School,Master's Degree,Mkt&Fin,2020
+1682,212,Wharton School,Master's Degree,Mkt&Fin,2020
+1683,213,Wharton School,Master's Degree,Mkt&Fin,2020
+1684,214,Harvard Business School,Master's Degree,Mkt&HR,2020
+1685,215,Harvard Business School,Master's Degree,Mkt&HR,2020

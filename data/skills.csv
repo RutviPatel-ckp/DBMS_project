@@ -1,0 +1,36 @@
+skill_id,skill_name,category
+1,Art/Creative,Creative
+2,Design,Creative
+3,Advertising,Creative
+4,Product Management,Product
+5,Distribution,Production
+6,Education,Education
+7,Training,Human Resources
+8,Project Management,Management
+9,Consulting,Management
+10,Purchasing,Operations
+11,Supply Chain,Production
+12,Analyst,Analytics
+13,Health Care Provider,Healthcare
+14,Research,Analytics
+15,Science,Technology
+16,General Business,Operations
+17,Customer Service,Customer Service
+18,Strategy/Planning,Management
+19,Finance,Finance
+20,Other,General
+21,Legal,Legal
+22,Engineering,Technology
+23,Quality Assurance,Technology
+24,Business Development,Marketing
+25,Information Technology,Technology
+26,Administrative,Human Resources
+27,Production,Production
+28,Marketing,Marketing
+29,Public Relations,Creative
+30,Writing/Editing,Creative
+31,Accounting/Auditing,Finance
+32,Human Resources,Human Resources
+33,Manufacturing,Production
+34,Sales,Marketing
+35,Management,Management

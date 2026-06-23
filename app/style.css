@@ -1,0 +1,373 @@
+/* Custom stylesheet for the Career Intelligence and Job Analytics Platform */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap');
+
+/* Apply modern typography globally */
+html, body, [class*="css"] {
+    font-family: 'Plus Jakarta Sans', 'Outfit', sans-serif;
+    color: #f3f4f6;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: rgba(10, 15, 30, 0.5);
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(99, 102, 241, 0.3);
+    border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(99, 102, 241, 0.6);
+}
+
+/* Base Body Layout and Gradients */
+.stApp {
+    background: radial-gradient(circle at 50% 0%, rgba(30, 27, 75, 0.4) 0%, rgba(15, 23, 42, 0) 50%), 
+                linear-gradient(180deg, #0b0f19 0%, #080b11 100%);
+}
+
+/* Premium Card Design System (Glassmorphism) */
+.glass-card {
+    background: rgba(15, 23, 42, 0.65);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.07);
+    padding: 24px;
+    margin-bottom: 20px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.35);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    animation: fadeIn 0.5s ease-out;
+}
+
+.glass-card:hover {
+    border-color: rgba(99, 102, 241, 0.35);
+    box-shadow: 0 12px 40px 0 rgba(99, 102, 241, 0.12);
+    transform: translateY(-2px);
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Split-Option Landing Tiles */
+.split-choice-title {
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+    background: linear-gradient(135deg, #ffffff 0%, #a5b4fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.split-choice-subtitle {
+    text-align: center;
+    font-size: 1.05rem;
+    color: #94a3b8;
+    margin-bottom: 40px;
+}
+
+.option-box {
+    background: rgba(30, 41, 59, 0.4);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 24px;
+    padding: 40px 30px;
+    text-align: center;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.option-box:hover {
+    transform: translateY(-8px);
+}
+
+/* Decorative background glowing spots for option cards */
+.option-box::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.03) 0%, transparent 60%);
+    pointer-events: none;
+    transition: transform 0.5s;
+}
+.option-box:hover::after {
+    transform: translate(10%, 10%);
+}
+
+/* Option 1: Good & Easy - Green Color Coding */
+.option-stable {
+    border-color: rgba(16, 185, 129, 0.15);
+    background: linear-gradient(180deg, rgba(16, 185, 129, 0.03) 0%, rgba(15, 23, 42, 0.4) 100%);
+}
+.option-stable:hover, .option-stable.active {
+    border-color: rgba(16, 185, 129, 0.8);
+    box-shadow: 0 20px 50px rgba(16, 185, 129, 0.18);
+}
+.option-stable .option-header {
+    color: #34d399;
+}
+
+/* Option 2: Potential Growth - Yellow Color Coding */
+.option-growth {
+    border-color: rgba(245, 158, 11, 0.15);
+    background: linear-gradient(180deg, rgba(245, 158, 11, 0.03) 0%, rgba(15, 23, 42, 0.4) 100%);
+}
+.option-growth:hover, .option-growth.active {
+    border-color: rgba(245, 158, 11, 0.8);
+    box-shadow: 0 20px 50px rgba(245, 158, 11, 0.18);
+}
+.option-growth .option-header {
+    color: #fbbf24;
+}
+
+/* Option 3: Risky but High Success - Blue Color Coding */
+.option-risky {
+    border-color: rgba(59, 130, 246, 0.15);
+    background: linear-gradient(180deg, rgba(59, 130, 246, 0.03) 0%, rgba(15, 23, 42, 0.4) 100%);
+}
+.option-risky:hover, .option-risky.active {
+    border-color: rgba(59, 130, 246, 0.8);
+    box-shadow: 0 20px 50px rgba(59, 130, 246, 0.18);
+}
+.option-risky .option-header {
+    color: #60a5fa;
+}
+
+.option-icon {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
+
+.option-header {
+    font-size: 1.65rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    letter-spacing: -0.02em;
+}
+
+.option-desc {
+    font-size: 0.95rem;
+    color: #94a3b8;
+    line-height: 1.6;
+    margin-bottom: 25px;
+    flex-grow: 1;
+}
+
+/* Custom Badges */
+.custom-badge {
+    display: inline-block;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.badge-stable {
+    background-color: rgba(16, 185, 129, 0.08);
+    color: #34d399;
+    border: 1px solid rgba(16, 185, 129, 0.25);
+}
+
+.badge-growth {
+    background-color: rgba(245, 158, 11, 0.08);
+    color: #fbbf24;
+    border: 1px solid rgba(245, 158, 11, 0.25);
+}
+
+.badge-risky {
+    background-color: rgba(59, 130, 246, 0.08);
+    color: #60a5fa;
+    border: 1px solid rgba(59, 130, 246, 0.25);
+}
+
+.badge-fintech {
+    background-color: rgba(129, 140, 248, 0.08);
+    color: #c7d2fe;
+    border: 1px solid rgba(129, 140, 248, 0.25);
+}
+
+/* Economic Boost Banner */
+.salary-boost-card {
+    background: linear-gradient(90deg, rgba(245, 158, 11, 0.08), rgba(99, 102, 241, 0.08));
+    border-left: 4px solid #f59e0b;
+    padding: 16px 20px;
+    border-radius: 0 12px 12px 0;
+    margin: 15px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.04);
+    border-right: 1px solid rgba(255, 255, 255, 0.04);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+/* Custom list layout */
+.skill-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.skill-tag {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 8px;
+    padding: 8px 10px;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #cbd5e1;
+}
+
+/* Notifications Styling */
+.notif-card {
+    background: rgba(15, 23, 42, 0.55);
+    border-left: 4px solid #94a3b8;
+    border-radius: 12px;
+    padding: 14px 18px;
+    margin-bottom: 12px;
+    border-top: 1px solid rgba(255, 255, 255, 0.04);
+    border-right: 1px solid rgba(255, 255, 255, 0.04);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    transition: all 0.2s ease;
+}
+
+.notif-card:hover {
+    border-color: rgba(255,255,255,0.12);
+    transform: scale(1.005);
+}
+
+.notif-unread {
+    background: rgba(30, 41, 59, 0.55);
+    box-shadow: 0 4px 20px rgba(99, 102, 241, 0.08);
+}
+
+.notif-new-opportunity {
+    border-left-color: #34d399; /* Green */
+}
+
+.notif-vacancy-alert {
+    border-left-color: #fbbf24; /* Yellow */
+}
+
+.notif-system {
+    border-left-color: #60a5fa; /* Blue */
+}
+
+.notif-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 6px;
+}
+
+.notif-new-opportunity .notif-header-text {
+    color: #34d399;
+}
+
+.notif-vacancy-alert .notif-header-text {
+    color: #fbbf24;
+}
+
+.notif-system .notif-header-text {
+    color: #60a5fa;
+}
+
+.notif-body {
+    font-size: 0.92rem;
+    color: #e2e8f0;
+    line-height: 1.5;
+}
+
+.notif-time {
+    font-size: 0.72rem;
+    color: #64748b;
+    margin-top: 6px;
+    text-align: right;
+}
+
+/* Custom Interactive Alert Banner */
+.custom-alert-banner {
+    background: linear-gradient(90deg, rgba(99, 102, 241, 0.1) 0%, rgba(129, 140, 248, 0.05) 100%);
+    border: 1px solid rgba(99, 102, 241, 0.25);
+    border-radius: 12px;
+    padding: 12px 18px;
+    margin-bottom: 20px;
+    color: #e2e8f0;
+    font-size: 0.92rem;
+}
+
+/* Fintech Ticker System */
+.ticker-wrap {
+    width: 100%;
+    overflow: hidden;
+    background: rgba(10, 15, 30, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 25px;
+}
+.ticker {
+    display: flex;
+    white-space: nowrap;
+    animation: ticker 40s linear infinite;
+}
+.ticker__item {
+    display: inline-block;
+    padding: 0 2rem;
+    font-size: 0.82rem;
+    color: #94a3b8;
+}
+.ticker__item span {
+    font-weight: 700;
+}
+.ticker__item .up {
+    color: #34d399;
+}
+.ticker__item .down {
+    color: #ef4444;
+}
+
+@keyframes ticker {
+    0% { transform: translate3d(0, 0, 0); }
+    100% { transform: translate3d(-100%, 0, 0); }
+}
+
+/* Layout modifications to hide default streamlit styling */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+.stDeployButton {display:none;}
+div.block-container {padding-top: 2rem;}
